@@ -87,6 +87,39 @@ Comprehensive database of physics research laboratories, equipment, and collabor
 curl https://klubfisika.github.io/datasets/research-labs.json
 ```
 
+## 👨‍🏫 Physics Teachers Dataset (Indonesia)
+
+Comprehensive database of physics educators, mentorship programs, and professional development resources across Indonesia.
+
+**Coverage:**
+- 🏫 **High School Teachers** - Experienced educators with specializations and achievements
+- 🎓 **University Lecturers** - Professors and researchers with publication records
+- 🤝 **Teacher Networks** - Professional organizations and training programs
+- 📚 **Mentorship Programs** - University-school partnerships and peer support
+- 🛠️ **Resources & Tools** - Digital platforms, textbooks, and teaching materials
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/physics-teachers.json
+```
+
+## 📅 Science Events Dataset (Indonesia)
+
+Complete calendar of physics conferences, workshops, competitions, and training programs throughout Indonesia.
+
+**Coverage:**
+- 🎤 **Conferences** - National and international physics conferences
+- 🛠️ **Workshops** - Technical and educational skill-building sessions
+- 🏆 **Competitions** - Student olympiads and research competitions
+- 📢 **Seminars** - Public lectures and research presentations
+- 🎪 **Science Fairs** - National and regional science exhibitions
+- 🎯 **Training Programs** - Olympiad preparation and teacher certification
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/science-events.json
+```
+
 Database komprehensif institusi pendidikan di Daerah Istimewa Yogyakarta dengan coverage 100% geografis dan kelengkapan data yang tervalidasi.
 
 ## 📊 Overview

@@ -1,0 +1,353 @@
+{
+  "conferences": {
+    "national": [
+      {
+        "name": "Indonesian Physics Conference (Konfernas Fisika Indonesia)",
+        "organizer": "Himpunan Fisika Indonesia (HFI)",
+        "frequency": "annual",
+        "typical_month": "October",
+        "location": "rotating_cities",
+        "2026_details": {
+          "date": "2026-10-15 to 2026-10-17",
+          "location": "Bandung, Jawa Barat",
+          "venue": "Institut Teknologi Bandung",
+          "theme": "Physics for Sustainable Development"
+        },
+        "tracks": [
+          "theoretical_physics",
+          "materials_science", 
+          "nuclear_physics",
+          "astrophysics",
+          "medical_physics",
+          "physics_education"
+        ],
+        "participants": 800,
+        "registration_fee": {
+          "student": 500000,
+          "regular": 1000000,
+          "international": 1500000
+        },
+        "abstract_deadline": "2026-08-15",
+        "website": "https://konfernas.hfi.fisika.or.id",
+        "contact": "konfernas@hfi.fisika.or.id"
+      },
+      {
+        "name": "Indonesian Materials Science Conference",
+        "organizer": "Indonesian Materials Research Society",
+        "frequency": "annual",
+        "typical_month": "August",
+        "2026_details": {
+          "date": "2026-08-20 to 2026-08-22",
+          "location": "Jakarta",
+          "venue": "University of Indonesia"
+        },
+        "focus_areas": ["nanomaterials", "biomaterials", "energy_materials"],
+        "participants": 400,
+        "registration_fee": {
+          "student": 400000,
+          "regular": 800000
+        },
+        "website": "https://materials-indonesia.org",
+        "contact": "conference@materials-indonesia.org"
+      }
+    ],
+    "international": [
+      {
+        "name": "Asian Physics Symposium (APS)",
+        "organizer": "Asian Physical Society",
+        "frequency": "biennial",
+        "2026_details": {
+          "date": "2026-09-10 to 2026-09-14",
+          "location": "Bali, Indonesia",
+          "venue": "Bali International Convention Centre"
+        },
+        "scope": "asia_pacific_region",
+        "participants": 1200,
+        "keynote_speakers": ["Nobel_laureates", "leading_asian_physicists"],
+        "registration_fee": {
+          "student": 800000,
+          "regular": 1500000,
+          "international": 2000000
+        },
+        "website": "https://aps-asia.org",
+        "contact": "aps2026@fisika.or.id"
+      }
+    ]
+  },
+  "workshops": {
+    "technical_workshops": [
+      {
+        "name": "Advanced Physics Laboratory Techniques",
+        "organizer": "ITB Physics Department",
+        "frequency": "quarterly",
+        "duration": "3 days",
+        "target_audience": ["university_students", "researchers", "lab_technicians"],
+        "topics": [
+          "X-ray_diffraction_analysis",
+          "electron_microscopy",
+          "spectroscopy_techniques",
+          "data_analysis_methods"
+        ],
+        "capacity": 30,
+        "fee": 2000000,
+        "next_sessions": [
+          {
+            "date": "2026-03-15 to 2026-03-17",
+            "registration_deadline": "2026-02-28"
+          },
+          {
+            "date": "2026-06-20 to 2026-06-22", 
+            "registration_deadline": "2026-06-05"
+          }
+        ],
+        "contact": "workshop@fi.itb.ac.id"
+      },
+      {
+        "name": "Computational Physics with Python",
+        "organizer": "UI Physics Department",
+        "frequency": "monthly",
+        "duration": "2 days weekend",
+        "target_audience": ["undergraduate_students", "high_school_teachers"],
+        "topics": [
+          "numerical_methods",
+          "data_visualization",
+          "simulation_techniques",
+          "machine_learning_in_physics"
+        ],
+        "capacity": 25,
+        "fee": 500000,
+        "format": "hands_on_coding",
+        "requirements": "basic_programming_knowledge",
+        "contact": "python@fisika.ui.ac.id"
+      }
+    ],
+    "education_workshops": [
+      {
+        "name": "Innovative Physics Teaching Methods",
+        "organizer": "MGMP Fisika Nasional",
+        "frequency": "bi_annual",
+        "duration": "5 days",
+        "target_audience": ["high_school_teachers", "physics_educators"],
+        "topics": [
+          "inquiry_based_learning",
+          "technology_integration",
+          "assessment_strategies",
+          "laboratory_management"
+        ],
+        "capacity": 50,
+        "fee": "government_sponsored",
+        "certification": "professional_development_credits",
+        "next_session": {
+          "date": "2026-07-08 to 2026-07-12",
+          "location": "Yogyakarta",
+          "registration_deadline": "2026-06-15"
+        },
+        "contact": "workshop@mgmp-fisika.org"
+      }
+    ]
+  },
+  "competitions": {
+    "student_competitions": [
+      {
+        "name": "National Physics Olympiad (OSN Fisika)",
+        "organizer": "Kementerian Pendidikan",
+        "level": "high_school",
+        "frequency": "annual",
+        "stages": ["school_level", "district_level", "provincial_level", "national_level"],
+        "2026_schedule": {
+          "school_selection": "2026-02-01 to 2026-02-28",
+          "district_level": "2026-04-15 to 2026-04-30",
+          "provincial_level": "2026-06-01 to 2026-06-15",
+          "national_final": "2026-08-10 to 2026-08-15"
+        },
+        "national_venue": "Medan, Sumatera Utara",
+        "participants_national": 100,
+        "prizes": {
+          "gold": 10,
+          "silver": 20,
+          "bronze": 30
+        },
+        "international_selection": "top_5_for_IPhO_training",
+        "website": "https://osn.kemdikbud.go.id",
+        "contact": "osn@kemdikbud.go.id"
+      },
+      {
+        "name": "University Physics Competition",
+        "organizer": "HFI Student Division",
+        "level": "university",
+        "frequency": "annual",
+        "categories": ["theoretical_physics", "experimental_physics", "computational_physics"],
+        "2026_details": {
+          "date": "2026-05-25 to 2026-05-26",
+          "location": "Surabaya",
+          "venue": "Institut Teknologi Sepuluh Nopember"
+        },
+        "team_size": 3,
+        "registration_fee": 300000,
+        "prizes": "total_50_million_rupiah",
+        "contact": "student@hfi.fisika.or.id"
+      }
+    ],
+    "research_competitions": [
+      {
+        "name": "Indonesian Young Physicist Tournament",
+        "organizer": "HFI + Universities",
+        "level": "high_school",
+        "format": "physics_fights",
+        "frequency": "annual",
+        "2026_details": {
+          "date": "2026-11-20 to 2026-11-22",
+          "location": "Jakarta",
+          "venue": "Universitas Indonesia"
+        },
+        "team_size": 5,
+        "problems": 17,
+        "international_participation": "IYPT_preparation",
+        "registration_fee": 500000,
+        "contact": "iypt@fisika.or.id"
+      }
+    ]
+  },
+  "seminars": {
+    "public_lectures": [
+      {
+        "name": "Physics for Everyone Series",
+        "organizer": "ITB Physics Outreach",
+        "frequency": "monthly",
+        "format": "public_lecture",
+        "duration": "2 hours",
+        "target_audience": "general_public",
+        "topics_2026": [
+          "Quantum Computing Revolution",
+          "Climate Physics and Global Warming",
+          "Space Exploration Technologies",
+          "Medical Physics Advances"
+        ],
+        "venue": "ITB Aula Barat",
+        "admission": "free",
+        "live_streaming": true,
+        "contact": "outreach@fi.itb.ac.id"
+      }
+    ],
+    "research_seminars": [
+      {
+        "name": "Weekly Physics Colloquium",
+        "organizer": "UI Physics Department",
+        "frequency": "weekly",
+        "format": "research_presentation",
+        "duration": "1 hour",
+        "target_audience": ["faculty", "graduate_students", "researchers"],
+        "schedule": "every_friday_2pm",
+        "venue": "UI Physics Auditorium",
+        "hybrid_format": "in_person_and_zoom",
+        "contact": "colloquium@fisika.ui.ac.id"
+      }
+    ]
+  },
+  "science_fairs": {
+    "national_events": [
+      {
+        "name": "Indonesia Science Expo (ISE)",
+        "organizer": "BRIN",
+        "frequency": "annual",
+        "duration": "1 week",
+        "2026_details": {
+          "date": "2026-09-25 to 2026-10-01",
+          "location": "Jakarta Convention Center"
+        },
+        "categories": [
+          "student_research_projects",
+          "innovation_showcase",
+          "industry_exhibition",
+          "public_demonstrations"
+        ],
+        "physics_participation": "strong_representation",
+        "visitors": 50000,
+        "admission": "free_for_students",
+        "contact": "ise@brin.go.id"
+      }
+    ],
+    "regional_events": [
+      {
+        "name": "Java Science Fair",
+        "organizer": "Java Universities Consortium",
+        "frequency": "annual",
+        "target": "high_school_students",
+        "2026_details": {
+          "date": "2026-04-10 to 2026-04-12",
+          "location": "Bandung"
+        },
+        "physics_categories": [
+          "experimental_physics",
+          "applied_physics",
+          "physics_education"
+        ],
+        "participants": 500,
+        "contact": "javafair@universities.org"
+      }
+    ]
+  },
+  "training_programs": {
+    "olympiad_training": [
+      {
+        "name": "National Physics Olympiad Training Camp",
+        "organizer": "Kementerian Pendidikan + HFI",
+        "target": "OSN_winners",
+        "duration": "2 weeks intensive",
+        "2026_schedule": {
+          "camp_1": "2026-09-01 to 2026-09-14",
+          "camp_2": "2026-12-15 to 2026-12-28"
+        },
+        "location": "Bandung",
+        "trainers": ["university_professors", "former_olympians"],
+        "goal": "IPhO_preparation",
+        "selection": "top_15_OSN_participants",
+        "fully_sponsored": true
+      }
+    ],
+    "teacher_training": [
+      {
+        "name": "Physics Teacher Certification Program",
+        "organizer": "Kementerian Pendidikan",
+        "duration": "6 months part_time",
+        "format": "blended_learning",
+        "modules": [
+          "physics_content_mastery",
+          "pedagogical_methods",
+          "assessment_techniques",
+          "laboratory_skills"
+        ],
+        "certification": "professional_teacher_certificate",
+        "cohort_size": 100,
+        "frequency": "twice_yearly",
+        "cost": "government_funded"
+      }
+    ]
+  },
+  "networking_events": {
+    "professional_meetups": [
+      {
+        "name": "Jakarta Physics Meetup",
+        "organizer": "Jakarta Physics Community",
+        "frequency": "monthly",
+        "format": "informal_networking",
+        "venue": "rotating_venues",
+        "target_audience": ["physicists", "engineers", "students", "educators"],
+        "activities": ["presentations", "discussions", "career_talks"],
+        "contact": "jakarta@physics-meetup.id"
+      }
+    ],
+    "industry_connections": [
+      {
+        "name": "Physics-Industry Partnership Forum",
+        "organizer": "HFI Industry Relations",
+        "frequency": "quarterly",
+        "format": "panel_discussions",
+        "participants": ["industry_leaders", "academic_researchers", "government_officials"],
+        "topics": ["technology_transfer", "research_collaboration", "career_opportunities"],
+        "venue": "major_cities_rotation",
+        "contact": "industry@hfi.fisika.or.id"
+      }
+    ]
+  }
+}

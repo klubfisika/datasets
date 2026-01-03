@@ -1,0 +1,271 @@
+{
+  "high_school_teachers": {
+    "diy_region": [
+      {
+        "name": "Drs. Bambang Sutrisno, M.Pd",
+        "school": "SMA Negeri 3 Yogyakarta",
+        "location": "Yogyakarta",
+        "education": "S2 Pendidikan Fisika UNY",
+        "experience_years": 25,
+        "specializations": ["mechanics", "thermodynamics", "olympiad_training"],
+        "achievements": [
+          "National Physics Teacher Award 2023",
+          "OSN Physics Coach - Gold Medal 2022"
+        ],
+        "teaching_methods": ["inquiry_based", "laboratory_intensive", "problem_solving"],
+        "contact": "bambang.sutrisno@sman3jogja.sch.id",
+        "mentorship_available": true,
+        "research_interests": ["physics_education", "conceptual_understanding"]
+      },
+      {
+        "name": "Dr. Siti Nurjanah, S.Pd, M.Si",
+        "school": "SMA Negeri 1 Sleman",
+        "location": "Sleman",
+        "education": "S3 Fisika UGM",
+        "experience_years": 18,
+        "specializations": ["modern_physics", "electronics", "research_methodology"],
+        "achievements": [
+          "Best Physics Teacher DIY 2021",
+          "Published 15 physics education papers"
+        ],
+        "teaching_methods": ["project_based", "technology_integrated", "collaborative"],
+        "contact": "siti.nurjanah@sman1sleman.sch.id",
+        "mentorship_available": true,
+        "research_interests": ["STEM_education", "physics_misconceptions"]
+      },
+      {
+        "name": "Drs. Ahmad Fauzi, M.Pd",
+        "school": "SMA Negeri 2 Bantul",
+        "location": "Bantul",
+        "education": "S2 Pendidikan Fisika UNY",
+        "experience_years": 22,
+        "specializations": ["waves_optics", "electricity_magnetism", "practical_physics"],
+        "achievements": [
+          "Regional Science Fair Judge",
+          "Physics Curriculum Developer"
+        ],
+        "teaching_methods": ["hands_on_experiments", "real_world_applications"],
+        "contact": "ahmad.fauzi@sman2bantul.sch.id",
+        "mentorship_available": true,
+        "workshop_expertise": ["laboratory_management", "experiment_design"]
+      }
+    ],
+    "java_region": [
+      {
+        "name": "Prof. Dr. Widodo Budi Dermawan, M.Si",
+        "school": "SMA Negeri 8 Jakarta",
+        "location": "Jakarta",
+        "education": "S3 Fisika UI",
+        "experience_years": 30,
+        "specializations": ["theoretical_physics", "advanced_mathematics", "research_supervision"],
+        "achievements": [
+          "National Education Excellence Award",
+          "International Physics Olympiad Coach"
+        ],
+        "teaching_methods": ["socratic_method", "mathematical_modeling", "peer_instruction"],
+        "contact": "widodo.dermawan@sman8jkt.sch.id",
+        "mentorship_available": true,
+        "international_experience": ["IPhO_delegation", "ASEAN_physics_education"]
+      },
+      {
+        "name": "Dra. Retno Sulistyowati, M.Pd",
+        "school": "SMA Negeri 5 Surabaya",
+        "location": "Surabaya",
+        "education": "S2 Pendidikan Fisika UNESA",
+        "experience_years": 20,
+        "specializations": ["environmental_physics", "renewable_energy", "sustainability"],
+        "achievements": [
+          "Green Physics Education Pioneer",
+          "Solar Panel Installation Trainer"
+        ],
+        "teaching_methods": ["environmental_integration", "community_projects"],
+        "contact": "retno.sulistyowati@sman5sby.sch.id",
+        "mentorship_available": true,
+        "community_involvement": ["renewable_energy_workshops", "environmental_campaigns"]
+      }
+    ]
+  },
+  "university_lecturers": {
+    "senior_professors": [
+      {
+        "name": "Prof. Dr. Terry Mart",
+        "institution": "Universitas Indonesia",
+        "department": "Fisika",
+        "position": "Professor",
+        "education": "PhD Physics, University of Mainz, Germany",
+        "experience_years": 25,
+        "research_areas": ["theoretical_nuclear_physics", "hadron_physics", "particle_physics"],
+        "publications": 150,
+        "h_index": 35,
+        "international_collaborations": ["CERN", "Jefferson_Lab", "RCNP_Osaka"],
+        "teaching_subjects": ["quantum_mechanics", "nuclear_physics", "particle_physics"],
+        "contact": "tmart@fisika.ui.ac.id",
+        "mentorship_available": true,
+        "supervision_capacity": "PhD_and_Masters"
+      },
+      {
+        "name": "Prof. Dr. Eng. Mikrajuddin Abdullah",
+        "institution": "Institut Teknologi Bandung",
+        "department": "Fisika",
+        "position": "Professor",
+        "education": "PhD Engineering Physics, Tokyo Institute of Technology",
+        "experience_years": 22,
+        "research_areas": ["nanomaterials", "semiconductor_physics", "solar_cells"],
+        "publications": 200,
+        "h_index": 42,
+        "patents": 15,
+        "teaching_subjects": ["solid_state_physics", "materials_science", "nanotechnology"],
+        "contact": "mikrajuddin@fi.itb.ac.id",
+        "mentorship_available": true,
+        "industry_collaboration": ["solar_energy_companies", "semiconductor_industry"]
+      }
+    ],
+    "associate_professors": [
+      {
+        "name": "Dr. Sparisoma Viridi",
+        "institution": "Institut Teknologi Bandung",
+        "department": "Fisika",
+        "position": "Associate Professor",
+        "education": "PhD Physics, ITB",
+        "experience_years": 15,
+        "research_areas": ["granular_physics", "computational_physics", "physics_education"],
+        "publications": 80,
+        "h_index": 18,
+        "teaching_subjects": ["computational_physics", "statistical_mechanics", "granular_materials"],
+        "contact": "sparisoma@fi.itb.ac.id",
+        "mentorship_available": true,
+        "digital_innovation": ["online_physics_simulations", "educational_apps"]
+      },
+      {
+        "name": "Dr. Freddy Haryanto",
+        "institution": "Institut Teknologi Bandung",
+        "department": "Fisika",
+        "position": "Associate Professor",
+        "education": "PhD Medical Physics, University of Surrey, UK",
+        "experience_years": 18,
+        "research_areas": ["medical_physics", "radiation_therapy", "dosimetry"],
+        "publications": 95,
+        "h_index": 22,
+        "clinical_affiliations": ["Dr. Hasan Sadikin Hospital"],
+        "teaching_subjects": ["medical_physics", "radiation_physics", "biophysics"],
+        "contact": "freddy@fi.itb.ac.id",
+        "mentorship_available": true,
+        "professional_certification": ["medical_physicist", "radiation_safety_officer"]
+      }
+    ]
+  },
+  "teacher_networks": {
+    "professional_organizations": [
+      {
+        "name": "Himpunan Fisika Indonesia (HFI)",
+        "type": "national_society",
+        "members": 2500,
+        "activities": ["annual_conference", "research_publications", "professional_development"],
+        "education_division": "Physics Education Section",
+        "contact": "hfi@fisika.or.id",
+        "website": "https://hfi.fisika.or.id",
+        "membership_benefits": ["journal_access", "conference_discounts", "networking"]
+      },
+      {
+        "name": "Musyawarah Guru Mata Pelajaran (MGMP) Fisika",
+        "type": "teacher_association",
+        "scope": "regional_chapters",
+        "activities": ["curriculum_development", "teaching_workshops", "resource_sharing"],
+        "meeting_frequency": "monthly",
+        "contact": "mgmp.fisika@kemdikbud.go.id",
+        "support_services": ["lesson_plan_templates", "assessment_tools"]
+      }
+    ],
+    "training_programs": [
+      {
+        "name": "Physics Teacher Professional Development",
+        "organizer": "Kementerian Pendidikan",
+        "duration": "40 hours",
+        "format": "hybrid_online_offline",
+        "topics": ["modern_physics_concepts", "laboratory_techniques", "assessment_methods"],
+        "certification": "professional_development_certificate",
+        "frequency": "quarterly",
+        "cost": "government_funded"
+      },
+      {
+        "name": "International Physics Olympiad Training",
+        "organizer": "HFI + Universities",
+        "target": "high_school_teachers",
+        "duration": "1 week intensive",
+        "topics": ["advanced_problem_solving", "olympiad_preparation", "student_mentoring"],
+        "selection_criteria": "teaching_excellence",
+        "benefits": ["international_exposure", "advanced_training"]
+      }
+    ]
+  },
+  "mentorship_programs": {
+    "university_school_partnerships": [
+      {
+        "name": "ITB Physics Education Outreach",
+        "university": "Institut Teknologi Bandung",
+        "partner_schools": 25,
+        "activities": ["lab_visits", "guest_lectures", "teacher_training"],
+        "student_programs": ["summer_physics_camp", "research_projects"],
+        "contact": "outreach@fi.itb.ac.id",
+        "duration": "ongoing_partnership"
+      },
+      {
+        "name": "UI Physics Community Service",
+        "university": "Universitas Indonesia",
+        "partner_schools": 20,
+        "focus": ["rural_school_support", "equipment_donation", "virtual_labs"],
+        "teacher_support": ["online_consultations", "resource_development"],
+        "contact": "community@fisika.ui.ac.id"
+      }
+    ],
+    "peer_mentoring": [
+      {
+        "name": "Senior-Junior Teacher Network",
+        "structure": "experienced_teacher_mentors_new_teachers",
+        "matching_criteria": ["subject_specialization", "geographic_proximity"],
+        "support_areas": ["classroom_management", "curriculum_delivery", "student_assessment"],
+        "communication": ["monthly_meetings", "online_forums", "classroom_observations"],
+        "coordinator": "MGMP_regional_chapters"
+      }
+    ]
+  },
+  "resources_and_tools": {
+    "digital_platforms": [
+      {
+        "name": "Rumah Belajar Fisika",
+        "provider": "Kemdikbud",
+        "type": "learning_management_system",
+        "content": ["video_lessons", "interactive_simulations", "assessment_tools"],
+        "access": "free_registration",
+        "url": "https://belajar.kemdikbud.go.id/fisika"
+      },
+      {
+        "name": "PhET Interactive Simulations",
+        "provider": "University of Colorado Boulder",
+        "type": "physics_simulations",
+        "language_support": "bahasa_indonesia",
+        "topics": ["mechanics", "waves", "quantum_physics"],
+        "access": "free_online",
+        "url": "https://phet.colorado.edu"
+      }
+    ],
+    "textbook_recommendations": [
+      {
+        "title": "Fisika untuk SMA/MA",
+        "author": "Marthen Kanginan",
+        "publisher": "Erlangga",
+        "level": "high_school",
+        "curriculum_alignment": "kurikulum_merdeka",
+        "features": ["practical_experiments", "real_world_applications"]
+      },
+      {
+        "title": "University Physics",
+        "author": "Young & Freedman",
+        "publisher": "Pearson",
+        "level": "university",
+        "language": "english_with_indonesian_supplement",
+        "features": ["comprehensive_coverage", "problem_solving_strategies"]
+      }
+    ]
+  }
+}
