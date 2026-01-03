@@ -132,6 +132,25 @@ We welcome contributions from everyone! Here's how you can help:
 
 **👉 [Read our Contributing Guide](CONTRIBUTING.md) to get started!**
 
+## 🚀 **Getting Started with AI Research**
+
+New to this repository? Check out our comprehensive guides:
+
+- **📖 [Getting Started Guide](GETTING_STARTED.md)** - Complete setup and usage instructions
+- **💬 [Conversation Starters](ai-workspace/CONVERSATION_STARTERS.md)** - How to begin effective AI research sessions
+- **🔬 [Research Framework](ai-workspace/research/)** - Advanced research methodologies and tools
+
+### Quick Start for Researchers
+```bash
+git clone https://github.com/klubfisika/datasets.git
+cd datasets
+kiro-cli chat
+
+# Then start with:
+"Load research mapping framework dan bantu saya menganalisis [dataset] 
+untuk [tujuan penelitian]. Background saya: [level/spesialisasi]"
+```
+
 ## 📈 **Impact & Usage**
 
 ### 📊 **Statistics**
