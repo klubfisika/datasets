@@ -1,0 +1,419 @@
+{
+  "competition_performance": {
+    "robotics_competitions": {
+      "kri_performance_trends": {
+        "2020": {
+          "total_teams": 180,
+          "java_region_teams": 89,
+          "java_region_winners": {
+            "gold": 4,
+            "silver": 6,
+            "bronze": 8
+          },
+          "top_performing_universities": [
+            {"university": "ITB", "rank": 2, "category": "KRI"},
+            {"university": "ITS", "rank": 1, "category": "KRCI"},
+            {"university": "UGM", "rank": 3, "category": "KRSBI"}
+          ]
+        },
+        "2021": {
+          "total_teams": 165,
+          "java_region_teams": 82,
+          "java_region_winners": {
+            "gold": 5,
+            "silver": 7,
+            "bronze": 6
+          },
+          "breakthrough_innovations": [
+            "autonomous_navigation_ITB",
+            "advanced_gripper_design_ITS",
+            "AI_decision_making_UGM"
+          ]
+        },
+        "2022": {
+          "total_teams": 195,
+          "java_region_teams": 98,
+          "java_region_winners": {
+            "gold": 6,
+            "silver": 8,
+            "bronze": 9
+          },
+          "technology_trends": [
+            "increased_AI_integration",
+            "better_sensor_fusion",
+            "improved_mechanical_design"
+          ]
+        },
+        "2023": {
+          "total_teams": 210,
+          "java_region_teams": 105,
+          "java_region_winners": {
+            "gold": 7,
+            "silver": 9,
+            "bronze": 11
+          },
+          "notable_achievements": [
+            "first_fully_autonomous_robot_ITB",
+            "record_speed_completion_ITS",
+            "innovative_swarm_robotics_UGM"
+          ]
+        },
+        "2024": {
+          "total_teams": 225,
+          "java_region_teams": 112,
+          "java_region_winners": {
+            "gold": 8,
+            "silver": 10,
+            "bronze": 12
+          },
+          "emerging_technologies": [
+            "quantum_sensors_integration",
+            "bio_inspired_locomotion",
+            "edge_AI_processing"
+          ]
+        }
+      },
+      "performance_analysis": {
+        "success_factors": [
+          {
+            "factor": "Strong_Physics_Foundation",
+            "correlation_with_success": "0.85",
+            "evidence": "teams_with_physics_majors_win_75%_more"
+          },
+          {
+            "factor": "Industry_Mentorship",
+            "correlation_with_success": "0.78",
+            "evidence": "industry_mentored_teams_advance_60%_more"
+          },
+          {
+            "factor": "Research_Lab_Access",
+            "correlation_with_success": "0.72",
+            "evidence": "university_lab_access_improves_performance_45%"
+          }
+        ],
+        "common_failure_points": [
+          "insufficient_testing_time",
+          "poor_project_management",
+          "inadequate_physics_modeling",
+          "limited_interdisciplinary_collaboration"
+        ],
+        "improvement_recommendations": [
+          "earlier_start_preparation",
+          "stronger_physics_theory_foundation",
+          "better_industry_partnerships",
+          "enhanced_simulation_capabilities"
+        ]
+      }
+    },
+    "rocket_competitions": {
+      "komurindo_performance": {
+        "2020": {
+          "total_teams": 75,
+          "successful_launches": 68,
+          "success_rate": "91%",
+          "altitude_records": [
+            {"team": "ITB_Rocket_Team", "altitude": "3.2_km", "payload": "2_kg"},
+            {"team": "UGM_Aerospace", "altitude": "2.8_km", "payload": "1.5_kg"},
+            {"team": "ITS_Rocket", "altitude": "2.5_km", "payload": "2.2_kg"}
+          ]
+        },
+        "2021": {
+          "total_teams": 82,
+          "successful_launches": 76,
+          "success_rate": "93%",
+          "innovation_highlights": [
+            "first_3D_printed_engine_nozzle",
+            "advanced_recovery_system_design",
+            "real_time_telemetry_improvements"
+          ]
+        },
+        "2022": {
+          "total_teams": 89,
+          "successful_launches": 81,
+          "success_rate": "91%",
+          "safety_improvements": [
+            "enhanced_ground_safety_protocols",
+            "better_propellant_handling",
+            "improved_launch_pad_design"
+          ]
+        },
+        "2023": {
+          "total_teams": 95,
+          "successful_launches": 87,
+          "success_rate": "92%",
+          "technology_advances": [
+            "hybrid_propulsion_systems",
+            "advanced_guidance_systems",
+            "miniaturized_payload_experiments"
+          ]
+        },
+        "2024": {
+          "total_teams": 102,
+          "successful_launches": 94,
+          "success_rate": "92%",
+          "record_achievements": [
+            {"category": "highest_altitude", "value": "4.1_km", "team": "ITB_Advanced_Rocketry"},
+            {"category": "most_accurate_landing", "value": "5_meter_radius", "team": "UGM_Precision_Team"},
+            {"category": "heaviest_payload", "value": "3.5_kg", "team": "ITS_Heavy_Lift"}
+          ]
+        }
+      },
+      "technical_evolution": {
+        "propulsion_systems": {
+          "2020": "solid_propellant_dominant_85%",
+          "2024": "hybrid_systems_growing_40%",
+          "trend": "increasing_complexity_and_efficiency"
+        },
+        "recovery_systems": {
+          "2020": "basic_parachute_systems",
+          "2024": "dual_deployment_and_guided_recovery",
+          "innovation": "GPS_guided_landing_systems"
+        },
+        "payload_sophistication": {
+          "2020": "simple_sensors_and_cameras",
+          "2024": "complex_scientific_instruments",
+          "examples": [
+            "atmospheric_research_packages",
+            "microgravity_experiments",
+            "communication_relay_systems"
+          ]
+        }
+      }
+    },
+    "physics_olympiad": {
+      "osn_performance_trends": {
+        "participation_growth": {
+          "2020": {"participants": 15000, "finalists": 100},
+          "2021": {"participants": 16500, "finalists": 100},
+          "2022": {"participants": 18200, "finalists": 100},
+          "2023": {"participants": 19800, "finalists": 100},
+          "2024": {"participants": 21500, "finalists": 100}
+        },
+        "regional_performance": {
+          "java_region": {
+            "participation_rate": "45%_of_national",
+            "finalist_rate": "55%_of_national_finalists",
+            "medal_rate": "60%_of_total_medals",
+            "top_provinces": ["DKI_Jakarta", "Jawa_Barat", "Jawa_Timur", "DIY"]
+          },
+          "performance_factors": [
+            "better_teacher_quality",
+            "more_training_resources",
+            "stronger_university_support",
+            "higher_competition_density"
+          ]
+        },
+        "international_performance": {
+          "ipho_results": {
+            "2020": {"gold": 1, "silver": 2, "bronze": 2},
+            "2021": {"gold": 2, "silver": 1, "bronze": 2},
+            "2022": {"gold": 1, "silver": 3, "bronze": 1},
+            "2023": {"gold": 2, "silver": 2, "bronze": 1},
+            "2024": {"gold": 3, "silver": 1, "bronze": 1}
+          },
+          "world_ranking": {
+            "2020": 15,
+            "2024": 8,
+            "improvement_trend": "consistent_upward_trajectory"
+          }
+        }
+      },
+      "training_effectiveness": {
+        "training_camp_impact": {
+          "camp_duration": "2_weeks_intensive",
+          "performance_improvement": "average_40%_score_increase",
+          "international_success_rate": "80%_of_camp_participants_medal"
+        },
+        "coaching_quality": {
+          "coach_qualifications": "PhD_physics_or_olympiad_alumni",
+          "coach_training_programs": "annual_international_workshops",
+          "coaching_effectiveness": "measured_by_student_performance_gains"
+        },
+        "resource_availability": {
+          "problem_databases": "10000+_problems_categorized",
+          "simulation_software": "physics_modeling_tools",
+          "laboratory_access": "advanced_experimental_setups"
+        }
+      }
+    }
+  },
+  "research_performance": {
+    "publication_metrics": {
+      "quantity_trends": {
+        "2020": {"total_papers": 1245, "international_journals": 892, "impact_factor_avg": 2.3},
+        "2021": {"total_papers": 1367, "international_journals": 978, "impact_factor_avg": 2.5},
+        "2022": {"total_papers": 1489, "international_journals": 1089, "impact_factor_avg": 2.7},
+        "2023": {"total_papers": 1634, "international_journals": 1234, "impact_factor_avg": 2.9},
+        "2024": {"total_papers": 1789, "international_journals": 1398, "impact_factor_avg": 3.1}
+      },
+      "quality_indicators": {
+        "highly_cited_papers": {
+          "2020": 23,
+          "2024": 67,
+          "growth_rate": "191%_over_4_years"
+        },
+        "international_collaborations": {
+          "2020": "25%_of_papers",
+          "2024": "38%_of_papers",
+          "trend": "increasing_global_integration"
+        },
+        "citation_impact": {
+          "average_citations_per_paper": {
+            "2020": 8.5,
+            "2024": 12.3
+          },
+          "h_index_growth": {
+            "institutional_average_2020": 25,
+            "institutional_average_2024": 34
+          }
+        }
+      }
+    },
+    "funding_success_rates": {
+      "government_grants": {
+        "brin_fundamental_research": {
+          "2020": {"applications": 450, "funded": 89, "success_rate": "20%"},
+          "2024": {"applications": 678, "funded": 156, "success_rate": "23%"}
+        },
+        "ministry_education_grants": {
+          "2020": {"applications": 890, "funded": 234, "success_rate": "26%"},
+          "2024": {"applications": 1234, "funded": 345, "success_rate": "28%"}
+        }
+      },
+      "international_funding": {
+        "success_trends": {
+          "2020": "12%_success_rate",
+          "2024": "18%_success_rate",
+          "improvement_factors": [
+            "better_proposal_writing",
+            "stronger_international_networks",
+            "improved_research_quality"
+          ]
+        }
+      }
+    }
+  },
+  "educational_outcomes": {
+    "physics_program_performance": {
+      "graduation_rates": {
+        "national_average": {
+          "s1_physics": "78%_4_year_completion",
+          "s2_physics": "85%_2_year_completion",
+          "s3_physics": "72%_4_year_completion"
+        },
+        "top_performing_universities": [
+          {"university": "ITB", "s1_completion": "89%", "employment_rate": "95%"},
+          {"university": "UI", "s1_completion": "87%", "employment_rate": "93%"},
+          {"university": "UGM", "s1_completion": "84%", "employment_rate": "91%"}
+        ]
+      },
+      "employment_outcomes": {
+        "job_placement_rates": {
+          "within_6_months": "88%",
+          "within_1_year": "95%",
+          "career_satisfaction": "82%_report_high_satisfaction"
+        },
+        "salary_progression": {
+          "entry_level": "8-15_million_rupiah",
+          "5_years_experience": "18-35_million_rupiah",
+          "10_years_experience": "30-60_million_rupiah"
+        },
+        "career_paths": {
+          "academia": "25%",
+          "industry": "45%",
+          "government": "20%",
+          "entrepreneurship": "10%"
+        }
+      }
+    },
+    "skill_development_metrics": {
+      "technical_skills": {
+        "programming_proficiency": "85%_graduates_proficient",
+        "laboratory_skills": "92%_graduates_competent",
+        "mathematical_modeling": "78%_graduates_advanced"
+      },
+      "soft_skills": {
+        "problem_solving": "90%_graduates_excellent",
+        "communication": "75%_graduates_good_or_better",
+        "teamwork": "88%_graduates_excellent"
+      }
+    }
+  },
+  "innovation_performance": {
+    "patent_success_metrics": {
+      "filing_to_grant_rates": {
+        "2020": "65%_grant_rate",
+        "2024": "72%_grant_rate",
+        "improvement_factors": [
+          "better_patent_writing",
+          "stronger_prior_art_research",
+          "improved_invention_quality"
+        ]
+      },
+      "commercialization_success": {
+        "patents_licensed": {
+          "2020": "15%_of_granted_patents",
+          "2024": "28%_of_granted_patents"
+        },
+        "revenue_generation": {
+          "2020": "25_billion_rupiah",
+          "2024": "89_billion_rupiah",
+          "growth_rate": "256%_over_4_years"
+        }
+      }
+    },
+    "startup_success_rates": {
+      "physics_based_startups": {
+        "survival_rates": {
+          "1_year": "78%",
+          "3_years": "45%",
+          "5_years": "28%"
+        },
+        "funding_success": {
+          "seed_funding": "65%_secure_initial_funding",
+          "series_a": "35%_reach_series_a",
+          "profitability": "22%_achieve_profitability"
+        },
+        "job_creation": {
+          "average_employees_per_startup": 15,
+          "total_jobs_created_2024": 1250,
+          "high_skill_jobs_percentage": "85%"
+        }
+      }
+    }
+  },
+  "benchmarking": {
+    "international_comparisons": {
+      "asean_ranking": {
+        "research_output": "Indonesia_rank_2_after_Singapore",
+        "innovation_index": "Indonesia_rank_3_after_Singapore_Malaysia",
+        "physics_education": "Indonesia_rank_2_after_Singapore"
+      },
+      "global_indicators": {
+        "nature_index_physics": {
+          "indonesia_rank": 45,
+          "regional_rank": 8,
+          "trend": "improving_5_positions_annually"
+        },
+        "patent_applications": {
+          "global_rank": 35,
+          "physics_patents_rank": 28,
+          "growth_rate": "15%_annually"
+        }
+      }
+    },
+    "improvement_targets": {
+      "2025_goals": {
+        "research_publications": "2000_papers_annually",
+        "international_collaborations": "45%_of_papers",
+        "patent_applications": "300_physics_patents",
+        "startup_creation": "50_new_physics_startups"
+      },
+      "2030_vision": {
+        "global_physics_ranking": "top_30_countries",
+        "innovation_ecosystem": "regional_hub_for_physics_innovation",
+        "economic_impact": "physics_sector_contributes_2%_GDP"
+      }
+    }
+  }
+}
