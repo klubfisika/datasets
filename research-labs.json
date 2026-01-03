@@ -1,0 +1,293 @@
+{
+  "university_labs": {
+    "public_universities": [
+      {
+        "university": "Institut Teknologi Bandung",
+        "location": "Bandung, Jawa Barat",
+        "labs": [
+          {
+            "name": "Laboratorium Fisika Material",
+            "department": "Fisika",
+            "research_areas": ["nanomaterials", "semiconductors", "superconductors"],
+            "equipment": [
+              {
+                "name": "X-Ray Diffractometer",
+                "model": "Rigaku MiniFlex",
+                "applications": ["crystal_structure_analysis"],
+                "availability": "shared_facility"
+              },
+              {
+                "name": "Scanning Electron Microscope",
+                "model": "JEOL JSM-6360LA",
+                "applications": ["surface_morphology", "microstructure"],
+                "availability": "booking_required"
+              }
+            ],
+            "head": "Prof. Dr. Material Scientist",
+            "contact": "material@fi.itb.ac.id",
+            "collaboration_open": true
+          },
+          {
+            "name": "Laboratorium Fisika Teoretis",
+            "department": "Fisika",
+            "research_areas": ["quantum_mechanics", "condensed_matter", "particle_physics"],
+            "equipment": [
+              {
+                "name": "High Performance Computing Cluster",
+                "specs": "64 cores, 256GB RAM",
+                "applications": ["numerical_simulations", "quantum_calculations"],
+                "availability": "research_groups_only"
+              }
+            ],
+            "head": "Prof. Dr. Theoretical Physicist",
+            "contact": "teori@fi.itb.ac.id",
+            "collaboration_open": true
+          },
+          {
+            "name": "Observatorium Bosscha",
+            "department": "Astronomi",
+            "research_areas": ["stellar_astronomy", "galactic_astronomy", "solar_physics"],
+            "equipment": [
+              {
+                "name": "Zeiss Double Refractor",
+                "specs": "60cm diameter",
+                "applications": ["stellar_observations", "binary_stars"],
+                "availability": "research_scheduled"
+              },
+              {
+                "name": "CCD Camera System",
+                "model": "SBIG ST-8XME",
+                "applications": ["photometry", "imaging"],
+                "availability": "shared_facility"
+              }
+            ],
+            "head": "Prof. Dr. Astronomer",
+            "contact": "bosscha@itb.ac.id",
+            "collaboration_open": true
+          }
+        ]
+      },
+      {
+        "university": "Universitas Indonesia",
+        "location": "Depok, Jawa Barat",
+        "labs": [
+          {
+            "name": "Laboratorium Fisika Nuklir",
+            "department": "Fisika",
+            "research_areas": ["nuclear_physics", "radiation_detection", "medical_physics"],
+            "equipment": [
+              {
+                "name": "Gamma Spectrometer",
+                "model": "Canberra GC2020",
+                "applications": ["radioactivity_measurement", "isotope_identification"],
+                "availability": "shared_facility"
+              },
+              {
+                "name": "Neutron Generator",
+                "model": "Thermo MP320",
+                "applications": ["neutron_activation_analysis"],
+                "availability": "supervised_use_only"
+              }
+            ],
+            "head": "Prof. Dr. Nuclear Physicist",
+            "contact": "nuklir@fisika.ui.ac.id",
+            "collaboration_open": true,
+            "safety_requirements": "radiation_safety_training"
+          },
+          {
+            "name": "Laboratorium Biofisika",
+            "department": "Fisika",
+            "research_areas": ["molecular_biophysics", "medical_imaging", "biomaterials"],
+            "equipment": [
+              {
+                "name": "Fluorescence Microscope",
+                "model": "Olympus BX53",
+                "applications": ["cell_imaging", "protein_studies"],
+                "availability": "booking_required"
+              },
+              {
+                "name": "UV-Vis Spectrophotometer",
+                "model": "Shimadzu UV-2600",
+                "applications": ["protein_concentration", "absorption_spectra"],
+                "availability": "shared_facility"
+              }
+            ],
+            "head": "Dr. Biophysicist",
+            "contact": "biofisika@fisika.ui.ac.id",
+            "collaboration_open": true
+          }
+        ]
+      },
+      {
+        "university": "Universitas Gadjah Mada",
+        "location": "Yogyakarta",
+        "labs": [
+          {
+            "name": "Laboratorium Geofisika",
+            "department": "Fisika",
+            "research_areas": ["seismology", "geomagnetism", "exploration_geophysics"],
+            "equipment": [
+              {
+                "name": "Seismometer Array",
+                "model": "Guralp CMG-3T",
+                "applications": ["earthquake_monitoring", "seismic_surveys"],
+                "availability": "research_groups_only"
+              },
+              {
+                "name": "Ground Penetrating Radar",
+                "model": "GSSI SIR-3000",
+                "applications": ["subsurface_imaging", "archaeological_surveys"],
+                "availability": "field_work_rental"
+              }
+            ],
+            "head": "Prof. Dr. Geophysicist",
+            "contact": "geofisika@ugm.ac.id",
+            "collaboration_open": true
+          },
+          {
+            "name": "Laboratorium Instrumentasi",
+            "department": "Fisika",
+            "research_areas": ["sensor_development", "measurement_systems", "electronics"],
+            "equipment": [
+              {
+                "name": "Network Analyzer",
+                "model": "Agilent E5071C",
+                "applications": ["RF_measurements", "antenna_testing"],
+                "availability": "shared_facility"
+              },
+              {
+                "name": "3D Printer",
+                "model": "Ultimaker S3",
+                "applications": ["prototype_development", "custom_parts"],
+                "availability": "project_based"
+              }
+            ],
+            "head": "Dr. Instrumentation Engineer",
+            "contact": "instrumentasi@ugm.ac.id",
+            "collaboration_open": true
+          }
+        ]
+      }
+    ],
+    "research_institutes": [
+      {
+        "name": "Badan Riset dan Inovasi Nasional (BRIN)",
+        "location": "Multiple locations",
+        "facilities": [
+          {
+            "name": "Pusat Penelitian Fisika",
+            "location": "Serpong, Banten",
+            "research_areas": ["materials_science", "nuclear_physics", "instrumentation"],
+            "major_equipment": [
+              {
+                "name": "Neutron Scattering Facility",
+                "applications": ["crystal_structure", "magnetic_properties"],
+                "availability": "proposal_based"
+              },
+              {
+                "name": "Synchrotron Light Source",
+                "applications": ["X-ray_spectroscopy", "protein_crystallography"],
+                "availability": "international_collaboration"
+              }
+            ],
+            "contact": "fisika@brin.go.id",
+            "collaboration_open": true
+          },
+          {
+            "name": "Observatorium Nasional Timau",
+            "location": "Kupang, NTT",
+            "research_areas": ["astronomy", "astrophysics", "space_science"],
+            "major_equipment": [
+              {
+                "name": "3.8m Optical Telescope",
+                "applications": ["deep_sky_observations", "exoplanet_detection"],
+                "availability": "research_proposal"
+              }
+            ],
+            "contact": "timau@brin.go.id",
+            "collaboration_open": true
+          }
+        ]
+      }
+    ]
+  },
+  "shared_facilities": {
+    "national_facilities": [
+      {
+        "name": "Indonesian Synchrotron Light Source",
+        "location": "Serpong, Banten",
+        "operator": "BRIN",
+        "capabilities": ["X-ray_spectroscopy", "protein_crystallography", "materials_characterization"],
+        "beam_lines": 8,
+        "user_access": "proposal_system",
+        "contact": "synchrotron@brin.go.id",
+        "website": "https://synchrotron.brin.go.id"
+      },
+      {
+        "name": "National Neutron Facility",
+        "location": "Serpong, Banten", 
+        "operator": "BRIN",
+        "capabilities": ["neutron_scattering", "activation_analysis", "radiography"],
+        "reactor_power": "30MW",
+        "user_access": "proposal_system",
+        "contact": "neutron@brin.go.id"
+      }
+    ],
+    "regional_facilities": [
+      {
+        "name": "Jawa-Bali Seismic Network",
+        "coverage": "Java and Bali",
+        "operator": "BMKG",
+        "stations": 45,
+        "data_access": "public_api",
+        "real_time": true,
+        "contact": "seismic@bmkg.go.id"
+      }
+    ]
+  },
+  "equipment_sharing": {
+    "networks": [
+      {
+        "name": "Indonesian Physics Equipment Network",
+        "participants": ["ITB", "UI", "UGM", "UNAIR", "UNDIP"],
+        "shared_equipment": ["electron_microscopes", "X-ray_diffractometers", "spectrometers"],
+        "booking_system": "online_portal",
+        "cost_sharing": "per_hour_usage",
+        "contact": "equipment@fisika-indonesia.org"
+      }
+    ],
+    "protocols": {
+      "booking_procedure": "online_application",
+      "training_required": true,
+      "cost_structure": "internal_rate_vs_external_rate",
+      "maintenance_sharing": "proportional_usage"
+    }
+  },
+  "research_collaboration": {
+    "active_networks": [
+      {
+        "name": "Indonesian Physics Society Research Network",
+        "members": 25,
+        "focus_areas": ["materials_physics", "nuclear_physics", "astrophysics"],
+        "annual_meeting": "Indonesian Physics Conference",
+        "funding_sources": ["government_grants", "international_collaboration"],
+        "contact": "research@hfi.or.id"
+      }
+    ],
+    "international_partnerships": [
+      {
+        "partner": "CERN",
+        "collaboration_type": "research_participation",
+        "indonesian_institutions": ["ITB", "UI", "UGM"],
+        "projects": ["particle_physics_experiments"],
+        "funding": "international_fellowship"
+      },
+      {
+        "partner": "KEK (Japan)",
+        "collaboration_type": "facility_access",
+        "focus": "high_energy_physics",
+        "exchange_program": true
+      }
+    ]
+  }
+}

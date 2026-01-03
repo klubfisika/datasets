@@ -1,0 +1,320 @@
+{
+  "observatories": {
+    "professional": [
+      {
+        "name": "Observatorium Bosscha",
+        "location": "Lembang, Jawa Barat",
+        "coordinates": {
+          "latitude": -6.8256,
+          "longitude": 107.6158,
+          "elevation": 1310
+        },
+        "operator": "Institut Teknologi Bandung",
+        "established": 1923,
+        "telescopes": [
+          {
+            "name": "Zeiss Double Refractor",
+            "diameter": "60cm",
+            "type": "refractor"
+          },
+          {
+            "name": "Schmidt Telescope",
+            "diameter": "51cm",
+            "type": "schmidt"
+          }
+        ],
+        "public_access": {
+          "available": true,
+          "schedule": "Saturday nights",
+          "booking_required": true,
+          "contact": "bosscha@itb.ac.id"
+        },
+        "research_focus": ["stellar_astronomy", "solar_physics", "planetary_science"],
+        "light_pollution": "moderate",
+        "website": "https://bosscha.itb.ac.id"
+      },
+      {
+        "name": "Observatorium Nasional Timau",
+        "location": "Kupang, Nusa Tenggara Timur",
+        "coordinates": {
+          "latitude": -10.1167,
+          "longitude": 124.0167,
+          "elevation": 1200
+        },
+        "operator": "BRIN (formerly LAPAN)",
+        "established": 2017,
+        "telescopes": [
+          {
+            "name": "Main Telescope",
+            "diameter": "3.8m",
+            "type": "reflector"
+          }
+        ],
+        "public_access": {
+          "available": false,
+          "research_only": true
+        },
+        "research_focus": ["deep_sky_objects", "exoplanets", "variable_stars"],
+        "light_pollution": "minimal",
+        "website": "https://brin.go.id"
+      }
+    ],
+    "educational": [
+      {
+        "name": "Planetarium Jakarta",
+        "location": "Jakarta Timur",
+        "coordinates": {
+          "latitude": -6.2297,
+          "longitude": 106.8467,
+          "elevation": 25
+        },
+        "operator": "Taman Ismail Marzuki",
+        "established": 1968,
+        "facilities": ["planetarium_dome", "exhibition_hall", "small_telescope"],
+        "public_access": {
+          "available": true,
+          "schedule": "daily",
+          "ticket_price": "25000",
+          "contact": "planetarium@jakarta.go.id"
+        },
+        "programs": ["school_visits", "public_shows", "astronomy_courses"],
+        "website": "https://planetarium.jakarta.go.id"
+      },
+      {
+        "name": "Observatorium Ilmu Falak UGM",
+        "location": "Yogyakarta",
+        "coordinates": {
+          "latitude": -7.7719,
+          "longitude": 110.3756,
+          "elevation": 113
+        },
+        "operator": "Universitas Gadjah Mada",
+        "telescopes": [
+          {
+            "name": "Celestron Schmidt-Cassegrain",
+            "diameter": "14 inch",
+            "type": "schmidt_cassegrain"
+          }
+        ],
+        "public_access": {
+          "available": true,
+          "schedule": "by_appointment",
+          "contact": "falak@ugm.ac.id"
+        },
+        "research_focus": ["islamic_astronomy", "calendar_studies"],
+        "light_pollution": "high"
+      }
+    ]
+  },
+  "dark_sky_sites": {
+    "excellent": [
+      {
+        "name": "Gunung Bromo",
+        "location": "Jawa Timur",
+        "coordinates": {
+          "latitude": -7.9425,
+          "longitude": 112.9530,
+          "elevation": 2329
+        },
+        "bortle_scale": 2,
+        "light_pollution": "minimal",
+        "accessibility": "moderate",
+        "facilities": ["parking", "basic_shelter"],
+        "best_months": ["April", "May", "June", "July", "August", "September"],
+        "weather_conditions": "dry_season_preferred",
+        "permits_required": true,
+        "camping_allowed": true,
+        "safety_notes": "cold_temperatures_at_night"
+      },
+      {
+        "name": "Pantai Parangtritis",
+        "location": "Yogyakarta",
+        "coordinates": {
+          "latitude": -8.0250,
+          "longitude": 110.3292,
+          "elevation": 5
+        },
+        "bortle_scale": 3,
+        "light_pollution": "low",
+        "accessibility": "easy",
+        "facilities": ["parking", "restaurants", "accommodation"],
+        "best_months": ["May", "June", "July", "August", "September"],
+        "weather_conditions": "clear_nights",
+        "permits_required": false,
+        "camping_allowed": false,
+        "safety_notes": "strong_ocean_currents"
+      },
+      {
+        "name": "Dieng Plateau",
+        "location": "Jawa Tengah",
+        "coordinates": {
+          "latitude": -7.2167,
+          "longitude": 109.9167,
+          "elevation": 2093
+        },
+        "bortle_scale": 2,
+        "light_pollution": "minimal",
+        "accessibility": "moderate",
+        "facilities": ["basic_accommodation", "local_guides"],
+        "best_months": ["April", "May", "June", "July", "August"],
+        "weather_conditions": "dry_season_only",
+        "permits_required": false,
+        "camping_allowed": true,
+        "safety_notes": "high_altitude_cold_temperatures"
+      }
+    ],
+    "good": [
+      {
+        "name": "Pantai Goa Cemara",
+        "location": "Yogyakarta",
+        "coordinates": {
+          "latitude": -8.1167,
+          "longitude": 110.1833,
+          "elevation": 10
+        },
+        "bortle_scale": 4,
+        "light_pollution": "moderate",
+        "accessibility": "easy",
+        "facilities": ["parking", "food_stalls"],
+        "best_months": ["May", "June", "July", "August", "September"],
+        "permits_required": false,
+        "camping_allowed": false
+      },
+      {
+        "name": "Candi Borobudur Area",
+        "location": "Jawa Tengah",
+        "coordinates": {
+          "latitude": -7.6079,
+          "longitude": 110.2038,
+          "elevation": 265
+        },
+        "bortle_scale": 4,
+        "light_pollution": "moderate",
+        "accessibility": "easy",
+        "facilities": ["parking", "accommodation", "restaurants"],
+        "best_months": ["April", "May", "June", "July", "August", "September"],
+        "permits_required": false,
+        "camping_allowed": false,
+        "special_events": ["sunrise_viewing", "cultural_tours"]
+      }
+    ]
+  },
+  "astronomy_clubs": {
+    "active_clubs": [
+      {
+        "name": "Himpunan Astronomi Amateur Jakarta (HAAJ)",
+        "location": "Jakarta",
+        "established": 1979,
+        "members": 150,
+        "activities": ["star_parties", "workshops", "public_outreach"],
+        "meeting_schedule": "monthly",
+        "contact": "haaj@astronomi.org",
+        "website": "https://haaj.org"
+      },
+      {
+        "name": "Jogja Astro Club (JAC)",
+        "location": "Yogyakarta",
+        "established": 1995,
+        "members": 80,
+        "activities": ["observations", "astrophotography", "education"],
+        "meeting_schedule": "bi_weekly",
+        "contact": "jac@jogjaastro.org",
+        "regular_locations": ["Parangtritis", "Goa_Cemara"]
+      },
+      {
+        "name": "Bandung Astronomy Club",
+        "location": "Bandung",
+        "established": 1988,
+        "members": 120,
+        "activities": ["deep_sky_observations", "solar_observations", "meteor_watching"],
+        "meeting_schedule": "monthly",
+        "contact": "bandungastro@gmail.com",
+        "partnership": "Observatorium_Bosscha"
+      }
+    ]
+  },
+  "celestial_events_calendar": {
+    "2026": {
+      "meteor_showers": [
+        {
+          "name": "Perseids",
+          "peak_date": "2026-08-12",
+          "duration": "July 17 - August 24",
+          "zhr": 100,
+          "best_viewing_time": "midnight_to_dawn",
+          "moon_phase": "new_moon"
+        },
+        {
+          "name": "Geminids",
+          "peak_date": "2026-12-14",
+          "duration": "December 4 - 20",
+          "zhr": 120,
+          "best_viewing_time": "9pm_to_dawn",
+          "moon_phase": "waning_crescent"
+        }
+      ],
+      "eclipses": [
+        {
+          "type": "solar_eclipse",
+          "date": "2026-08-12",
+          "visibility": "partial_in_indonesia",
+          "best_locations": ["Sumatra", "Kalimantan"],
+          "maximum_coverage": "65%"
+        },
+        {
+          "type": "lunar_eclipse",
+          "date": "2026-03-03",
+          "visibility": "total_in_indonesia",
+          "duration": "3h 28m",
+          "totality_duration": "58m"
+        }
+      ],
+      "planetary_conjunctions": [
+        {
+          "planets": ["Venus", "Jupiter"],
+          "date": "2026-05-23",
+          "separation": "0.5 degrees",
+          "best_viewing_time": "evening_twilight"
+        }
+      ]
+    }
+  },
+  "equipment_recommendations": {
+    "beginner": [
+      {
+        "item": "Binoculars 10x50",
+        "price_range": "500000-1000000",
+        "use_case": "wide_field_viewing",
+        "recommended_brands": ["Celestron", "Bushnell"]
+      },
+      {
+        "item": "Red Flashlight",
+        "price_range": "50000-150000",
+        "use_case": "preserve_night_vision",
+        "diy_option": "red_cellophane_over_regular_flashlight"
+      }
+    ],
+    "intermediate": [
+      {
+        "item": "Dobsonian Telescope 8 inch",
+        "price_range": "5000000-8000000",
+        "use_case": "deep_sky_objects",
+        "recommended_brands": ["Skywatcher", "Celestron"]
+      },
+      {
+        "item": "Star Chart/Planisphere",
+        "price_range": "100000-200000",
+        "use_case": "constellation_identification",
+        "digital_alternative": "SkySafari_app"
+      }
+    ],
+    "advanced": [
+      {
+        "item": "DSLR Camera + Telephoto Lens",
+        "price_range": "10000000-25000000",
+        "use_case": "astrophotography",
+        "additional_equipment": ["tripod", "intervalometer"]
+      }
+    ]
+  }
+}

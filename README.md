@@ -55,6 +55,38 @@ Complete database of components, equipment, and suppliers for robotics, rocket, 
 curl https://klubfisika.github.io/datasets/equipment-suppliers.json
 ```
 
+## 🌟 Astronomy Locations Dataset (Indonesia)
+
+Complete guide to stargazing locations, observatories, and astronomy resources across Indonesia for outdoor astronomy activities.
+
+**Coverage:**
+- 🔭 **Observatories** - Professional and educational facilities
+- 🌌 **Dark Sky Sites** - Bortle scale ratings and accessibility info
+- 👥 **Astronomy Clubs** - Active communities and contact information
+- 📅 **Celestial Events** - 2026 meteor showers, eclipses, conjunctions
+- 🛠️ **Equipment Guide** - Beginner to advanced astronomy gear recommendations
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/astronomy-locations.json
+```
+
+## 🔬 Research Labs Dataset (Indonesia)
+
+Comprehensive database of physics research laboratories, equipment, and collaboration opportunities across Indonesian institutions.
+
+**Coverage:**
+- 🏛️ **University Labs** - Major physics departments and their facilities
+- 🔬 **Research Institutes** - BRIN and national research facilities
+- 🤝 **Shared Facilities** - Synchrotron, neutron sources, major equipment
+- 🌐 **Equipment Networks** - Inter-institutional sharing programs
+- 🔗 **Collaborations** - National and international research partnerships
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/research-labs.json
+```
+
 Database komprehensif institusi pendidikan di Daerah Istimewa Yogyakarta dengan coverage 100% geografis dan kelengkapan data yang tervalidasi.
 
 ## 📊 Overview
