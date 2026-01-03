@@ -1,0 +1,369 @@
+{
+  "government_grants": {
+    "national_level": [
+      {
+        "program_name": "BRIN Fundamental Research Grant",
+        "agency": "Badan Riset dan Inovasi Nasional",
+        "budget_2026": "200_billion_rupiah",
+        "physics_allocation": "50_billion_rupiah",
+        "grant_types": [
+          {
+            "type": "Individual Research",
+            "amount_range": "200_million - 800_million",
+            "duration": "2-3 years",
+            "success_rate": "22%",
+            "application_deadline": "2026-03-31",
+            "eligibility": "PhD_holders_with_permanent_position"
+          },
+          {
+            "type": "Collaborative Research",
+            "amount_range": "1_billion - 3_billion",
+            "duration": "3-5 years", 
+            "success_rate": "18%",
+            "application_deadline": "2026-04-30",
+            "eligibility": "multi_institutional_teams"
+          }
+        ],
+        "priority_areas": [
+          "quantum_technologies",
+          "renewable_energy_physics",
+          "materials_for_sustainability",
+          "climate_physics",
+          "medical_physics_innovation"
+        ],
+        "application_process": "online_submission",
+        "review_process": "international_peer_review",
+        "contact": "grants@brin.go.id",
+        "website": "https://grants.brin.go.id"
+      },
+      {
+        "program_name": "Ministry of Education Research Excellence Grant",
+        "agency": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi",
+        "budget_2026": "300_billion_rupiah",
+        "physics_allocation": "75_billion_rupiah",
+        "grant_types": [
+          {
+            "type": "Early Career Researcher",
+            "amount_range": "150_million - 400_million",
+            "duration": "2 years",
+            "success_rate": "35%",
+            "application_deadline": "2026-05-15",
+            "eligibility": "PhD_within_5_years"
+          },
+          {
+            "type": "Established Researcher",
+            "amount_range": "500_million - 1.5_billion",
+            "duration": "3 years",
+            "success_rate": "25%",
+            "application_deadline": "2026-05-15",
+            "eligibility": "senior_researchers_with_track_record"
+          }
+        ],
+        "special_programs": [
+          {
+            "name": "Women in Physics Initiative",
+            "additional_funding": "20%_bonus",
+            "mentorship_program": true,
+            "networking_support": true
+          },
+          {
+            "name": "Rural University Support",
+            "additional_funding": "30%_bonus",
+            "equipment_sharing": true,
+            "capacity_building": true
+          }
+        ],
+        "contact": "research@kemdikbudristek.go.id",
+        "website": "https://research.kemdikbudristek.go.id"
+      }
+    ],
+    "regional_level": [
+      {
+        "program_name": "Java Regional Physics Research Fund",
+        "coverage": "Java_and_Bali",
+        "budget_2026": "50_billion_rupiah",
+        "focus_areas": [
+          "disaster_mitigation_physics",
+          "urban_physics_solutions",
+          "industrial_physics_applications"
+        ],
+        "grant_amount": "100_million - 500_million",
+        "duration": "1-2 years",
+        "application_deadline": "2026-06-30",
+        "contact": "java.research@regional.gov.id"
+      }
+    ]
+  },
+  "international_grants": {
+    "bilateral_programs": [
+      {
+        "program_name": "Indonesia-Japan Science Cooperation",
+        "partners": ["JSPS", "JICA", "Indonesian_Ministry_of_Research"],
+        "budget_2026": "25_million_USD",
+        "physics_projects": 15,
+        "grant_types": [
+          {
+            "type": "Joint Research Project",
+            "amount": "100k - 500k_USD",
+            "duration": "2-3 years",
+            "requirements": "japanese_partner_institution",
+            "application_deadline": "2026-07-31"
+          },
+          {
+            "type": "Researcher Exchange",
+            "amount": "20k - 50k_USD",
+            "duration": "3-12 months",
+            "benefits": ["travel", "accommodation", "research_allowance"],
+            "application_deadline": "2026-09-30"
+          }
+        ],
+        "priority_areas": [
+          "advanced_materials",
+          "nuclear_physics",
+          "earthquake_research",
+          "renewable_energy"
+        ],
+        "contact": "indonesia-japan@jsps.go.jp",
+        "website": "https://jsps.go.jp/english/e-bilat/seminar/indonesia.html"
+      },
+      {
+        "program_name": "Indonesia-Germany Research Partnership",
+        "partners": ["DAAD", "DFG", "Alexander_von_Humboldt_Foundation"],
+        "budget_2026": "20_million_EUR",
+        "physics_allocation": "30%",
+        "programs": [
+          {
+            "name": "Humboldt Research Fellowship",
+            "amount": "3.2k_EUR_monthly",
+            "duration": "6-24 months",
+            "target": "postdoc_and_senior_researchers",
+            "application_deadline": "rolling_basis"
+          },
+          {
+            "name": "DAAD Research Grants",
+            "amount": "1.5k - 2.5k_EUR_monthly",
+            "duration": "1-10 months",
+            "target": "PhD_students_and_postdocs",
+            "application_deadline": "2026-08-31"
+          }
+        ],
+        "contact": "indonesia@daad.de",
+        "website": "https://daad.de/indonesia"
+      }
+    ],
+    "multilateral_programs": [
+      {
+        "program_name": "ASEAN+3 Physics Research Initiative",
+        "participating_countries": ["ASEAN", "China", "Japan", "South_Korea"],
+        "budget_2026": "15_million_USD",
+        "indonesia_allocation": "2.5_million_USD",
+        "focus_areas": [
+          "climate_change_physics",
+          "sustainable_energy",
+          "disaster_preparedness",
+          "space_physics"
+        ],
+        "grant_amount": "50k - 200k_USD",
+        "duration": "1-3 years",
+        "application_deadline": "2026-10-15",
+        "contact": "asean.physics@asean.org"
+      },
+      {
+        "program_name": "World Bank Science Excellence Fund",
+        "global_budget": "100_million_USD",
+        "indonesia_eligible_amount": "8_million_USD",
+        "focus_areas": [
+          "physics_for_development",
+          "climate_resilience",
+          "sustainable_technologies",
+          "capacity_building"
+        ],
+        "grant_types": [
+          {
+            "type": "Research Project",
+            "amount": "100k - 1_million_USD",
+            "duration": "2-4 years"
+          },
+          {
+            "type": "Capacity Building",
+            "amount": "50k - 300k_USD",
+            "duration": "1-2 years"
+          }
+        ],
+        "application_deadline": "2026-11-30",
+        "contact": "science@worldbank.org"
+      }
+    ]
+  },
+  "private_foundation_grants": [
+    {
+      "foundation_name": "Simons Foundation",
+      "program": "International Collaboration Grants",
+      "physics_budget": "10_million_USD_globally",
+      "indonesia_projects_funded": 3,
+      "grant_amount": "100k - 500k_USD",
+      "duration": "3-5 years",
+      "focus_areas": [
+        "theoretical_physics",
+        "mathematical_physics",
+        "computational_physics"
+      ],
+      "application_deadline": "2026-12-01",
+      "success_rate": "8%",
+      "contact": "international@simonsfoundation.org"
+    },
+    {
+      "foundation_name": "Kavli Foundation",
+      "program": "Kavli Institute Development",
+      "focus": "astrophysics_nanoscience_neuroscience",
+      "indonesia_eligibility": "limited",
+      "potential_amount": "2-10_million_USD",
+      "duration": "10_years",
+      "requirements": "world_class_research_excellence",
+      "contact": "kavli@kavlifoundation.org"
+    }
+  ],
+  "industry_partnerships": {
+    "energy_sector": [
+      {
+        "company": "PT Pertamina",
+        "program": "Energy Innovation Research Fund",
+        "budget_2026": "100_billion_rupiah",
+        "physics_relevance": "high",
+        "focus_areas": [
+          "renewable_energy_physics",
+          "energy_storage_materials",
+          "geothermal_physics",
+          "carbon_capture_technologies"
+        ],
+        "grant_amount": "500_million - 2_billion_rupiah",
+        "duration": "2-3 years",
+        "application_deadline": "2026-08-15",
+        "contact": "research@pertamina.com"
+      },
+      {
+        "company": "PT PLN",
+        "program": "Smart Grid Physics Research",
+        "budget_2026": "75_billion_rupiah",
+        "focus_areas": [
+          "power_electronics",
+          "energy_efficiency",
+          "grid_stability_physics",
+          "renewable_integration"
+        ],
+        "collaboration_type": "joint_research_projects",
+        "contact": "innovation@pln.co.id"
+      }
+    ],
+    "technology_sector": [
+      {
+        "company": "PT Telkom Indonesia",
+        "program": "Advanced Physics for Telecommunications",
+        "budget_2026": "50_billion_rupiah",
+        "focus_areas": [
+          "quantum_communications",
+          "photonics",
+          "signal_processing_physics",
+          "5G_6G_physics"
+        ],
+        "grant_amount": "200_million - 1_billion_rupiah",
+        "duration": "1-2 years",
+        "contact": "research@telkom.co.id"
+      }
+    ]
+  },
+  "student_funding": {
+    "undergraduate_research": [
+      {
+        "program": "Student Creativity Program (PKM)",
+        "agency": "Ministry_of_Education",
+        "budget_2026": "500_billion_rupiah",
+        "physics_allocation": "15%",
+        "categories": [
+          {
+            "type": "PKM-Penelitian (Research)",
+            "amount": "12.5_million_rupiah",
+            "duration": "8_months",
+            "team_size": "3-5_students"
+          },
+          {
+            "type": "PKM-Teknologi (Technology)",
+            "amount": "15_million_rupiah",
+            "duration": "8_months",
+            "focus": "applied_physics_innovation"
+          }
+        ],
+        "application_deadline": "2026-04-30",
+        "success_rate": "25%",
+        "contact": "pkm@kemdikbudristek.go.id"
+      }
+    ],
+    "graduate_funding": [
+      {
+        "program": "BRIN Graduate Research Fellowship",
+        "target": "PhD_students",
+        "amount": "5_million_rupiah_monthly",
+        "duration": "up_to_4_years",
+        "additional_benefits": [
+          "research_allowance_20_million_annually",
+          "conference_travel_support",
+          "international_collaboration_opportunities"
+        ],
+        "application_deadline": "2026-06-30",
+        "contact": "fellowship@brin.go.id"
+      },
+      {
+        "program": "LPDP Scholarship",
+        "agency": "Ministry_of_Finance",
+        "coverage": "full_tuition_and_living_expenses",
+        "destinations": ["domestic", "international"],
+        "physics_quota": "200_students_annually",
+        "requirements": [
+          "GPA_minimum_3.25",
+          "TOEFL_550_or_equivalent",
+          "commitment_to_return_indonesia"
+        ],
+        "application_deadline": "2026-05-31",
+        "contact": "lpdp@kemenkeu.go.id"
+      }
+    ]
+  },
+  "application_tips": {
+    "general_guidelines": [
+      {
+        "tip": "Start early",
+        "description": "Begin preparation 6-12 months before deadline",
+        "importance": "critical"
+      },
+      {
+        "tip": "Build collaborations",
+        "description": "Establish partnerships with international institutions",
+        "importance": "high"
+      },
+      {
+        "tip": "Track record matters",
+        "description": "Maintain consistent publication and research output",
+        "importance": "high"
+      },
+      {
+        "tip": "Align with priorities",
+        "description": "Match research proposal with funding agency priorities",
+        "importance": "critical"
+      }
+    ],
+    "common_mistakes": [
+      "unrealistic_budget_planning",
+      "insufficient_preliminary_data",
+      "weak_international_collaboration",
+      "poor_project_timeline",
+      "inadequate_literature_review"
+    ],
+    "success_factors": [
+      "clear_research_objectives",
+      "strong_methodology",
+      "experienced_research_team",
+      "institutional_support",
+      "potential_for_impact"
+    ]
+  }
+}

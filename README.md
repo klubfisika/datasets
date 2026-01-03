@@ -120,6 +120,58 @@ Complete calendar of physics conferences, workshops, competitions, and training 
 curl https://klubfisika.github.io/datasets/science-events.json
 ```
 
+---
+
+## 🚀 Phase 3: Advanced Data
+
+### 📚 Publications Database (Indonesia)
+
+Comprehensive database of Indonesian physics research publications, metrics, and collaboration networks.
+
+**Coverage:**
+- 📄 **Research Papers** - High-impact publications and recent research output
+- 📊 **Research Metrics** - Institution rankings, h-index, citation analysis
+- 🤝 **Collaboration Networks** - International and domestic research partnerships
+- 💰 **Funding Landscape** - Government and international research funding
+- 📈 **Publication Trends** - Growth statistics and emerging research areas
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/publications-database.json
+```
+
+### 💰 Grant Opportunities Database
+
+Complete guide to research funding opportunities for physics projects and career development.
+
+**Coverage:**
+- 🏛️ **Government Grants** - BRIN, Ministry of Education funding programs
+- 🌍 **International Grants** - Bilateral and multilateral research funding
+- 🏢 **Private Foundations** - Simons, Kavli, and other foundation grants
+- 🏭 **Industry Partnerships** - Corporate research collaboration opportunities
+- 🎓 **Student Funding** - Undergraduate and graduate research support
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/grant-opportunities.json
+```
+
+### 💼 Career Pathways Database
+
+Comprehensive career guidance for physics graduates covering academic, industry, and government opportunities.
+
+**Coverage:**
+- 🎓 **Academic Careers** - University positions and research institution roles
+- 🏭 **Industry Careers** - Energy, technology, consulting, and startup opportunities
+- 🏛️ **Government Careers** - BRIN, BMKG, and public sector positions
+- 🚀 **Entrepreneurship** - Physics-based startup opportunities and support ecosystem
+- 🌍 **International Opportunities** - Postdoc positions and permanent migration paths
+
+### Quick Access:
+```bash
+curl https://klubfisika.github.io/datasets/career-pathways.json
+```
+
 Database komprehensif institusi pendidikan di Daerah Istimewa Yogyakarta dengan coverage 100% geografis dan kelengkapan data yang tervalidasi.
 
 ## 📊 Overview

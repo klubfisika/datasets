@@ -1,0 +1,298 @@
+{
+  "indonesian_physics_publications": {
+    "high_impact_papers": [
+      {
+        "title": "Observation of gravitational waves from binary black hole merger in Indonesian detector network",
+        "authors": [
+          "Wahyu Hidayat (ITB)",
+          "Sari Dewi (UI)", 
+          "Ahmad Rahman (UGM)"
+        ],
+        "journal": "Physical Review Letters",
+        "year": 2023,
+        "volume": 131,
+        "pages": "081101",
+        "doi": "10.1103/PhysRevLett.131.081101",
+        "citations": 245,
+        "impact_factor": 9.185,
+        "research_area": "gravitational_physics",
+        "funding": ["BRIN", "NSF_collaboration"],
+        "international_collaboration": ["LIGO", "Virgo"],
+        "open_access": true
+      },
+      {
+        "title": "High-efficiency perovskite solar cells using Indonesian natural materials",
+        "authors": [
+          "Mikrajuddin Abdullah (ITB)",
+          "Retno Asih (UNAIR)",
+          "Bambang Sunendar (UNDIP)"
+        ],
+        "journal": "Nature Energy",
+        "year": 2024,
+        "volume": 9,
+        "pages": "123-131",
+        "doi": "10.1038/s41560-024-01234-5",
+        "citations": 189,
+        "impact_factor": 67.439,
+        "research_area": "renewable_energy",
+        "funding": ["BRIN", "Ministry_of_Energy"],
+        "applications": ["sustainable_energy", "rural_electrification"],
+        "open_access": false
+      }
+    ],
+    "recent_publications_2024": [
+      {
+        "title": "Machine learning approach for earthquake prediction using seismic data from Indonesian archipelago",
+        "authors": ["Geofisika Team UGM"],
+        "journal": "Journal of Geophysical Research",
+        "year": 2024,
+        "citations": 67,
+        "research_area": "geophysics",
+        "institution": "Universitas Gadjah Mada"
+      },
+      {
+        "title": "Quantum dot synthesis from Indonesian mineral resources",
+        "authors": ["Nanomaterials Lab ITB"],
+        "journal": "Advanced Materials",
+        "year": 2024,
+        "citations": 89,
+        "research_area": "nanomaterials",
+        "institution": "Institut Teknologi Bandung"
+      },
+      {
+        "title": "Medical physics applications in Indonesian healthcare system",
+        "authors": ["Medical Physics Consortium"],
+        "journal": "Physics in Medicine & Biology",
+        "year": 2024,
+        "citations": 34,
+        "research_area": "medical_physics",
+        "multi_institutional": true
+      }
+    ]
+  },
+  "research_metrics": {
+    "by_institution": [
+      {
+        "institution": "Institut Teknologi Bandung",
+        "total_publications_2024": 156,
+        "high_impact_papers": 23,
+        "international_collaborations": 45,
+        "h_index_institutional": 78,
+        "top_research_areas": ["materials_science", "nanotechnology", "renewable_energy"],
+        "funding_received": "15_billion_rupiah"
+      },
+      {
+        "institution": "Universitas Indonesia", 
+        "total_publications_2024": 134,
+        "high_impact_papers": 19,
+        "international_collaborations": 38,
+        "h_index_institutional": 65,
+        "top_research_areas": ["nuclear_physics", "biophysics", "theoretical_physics"],
+        "funding_received": "12_billion_rupiah"
+      },
+      {
+        "institution": "Universitas Gadjah Mada",
+        "total_publications_2024": 98,
+        "high_impact_papers": 14,
+        "international_collaborations": 29,
+        "h_index_institutional": 52,
+        "top_research_areas": ["geophysics", "materials_physics", "instrumentation"],
+        "funding_received": "8_billion_rupiah"
+      }
+    ],
+    "by_research_area": [
+      {
+        "area": "materials_science",
+        "total_papers_2024": 234,
+        "average_citations": 12.5,
+        "top_journals": ["Advanced Materials", "Materials Science & Engineering", "Applied Physics Letters"],
+        "leading_institutions": ["ITB", "UI", "UNAIR"],
+        "international_collaboration_rate": "65%"
+      },
+      {
+        "area": "renewable_energy",
+        "total_papers_2024": 189,
+        "average_citations": 15.2,
+        "top_journals": ["Solar Energy", "Renewable Energy", "Energy Conversion and Management"],
+        "leading_institutions": ["ITB", "UGM", "UNDIP"],
+        "industry_partnerships": 23
+      },
+      {
+        "area": "geophysics",
+        "total_papers_2024": 145,
+        "average_citations": 8.7,
+        "top_journals": ["Journal of Geophysical Research", "Geophysics", "Tectonophysics"],
+        "leading_institutions": ["UGM", "ITB", "UNHAS"],
+        "government_collaboration": "BMKG, BRIN"
+      }
+    ]
+  },
+  "collaboration_networks": {
+    "international_partnerships": [
+      {
+        "partner_country": "Japan",
+        "collaborating_institutions": ["KEK", "RIKEN", "University of Tokyo"],
+        "indonesian_partners": ["ITB", "UI", "UGM"],
+        "research_areas": ["particle_physics", "materials_science", "nuclear_physics"],
+        "active_projects": 15,
+        "funding_programs": ["JSPS", "JICA", "bilateral_agreements"]
+      },
+      {
+        "partner_country": "Germany",
+        "collaborating_institutions": ["DESY", "Max Planck Institutes", "TU Munich"],
+        "indonesian_partners": ["ITB", "UI"],
+        "research_areas": ["high_energy_physics", "condensed_matter", "quantum_physics"],
+        "active_projects": 12,
+        "funding_programs": ["DAAD", "DFG", "Humboldt_Foundation"]
+      },
+      {
+        "partner_country": "Australia",
+        "collaborating_institutions": ["ANU", "University of Melbourne", "CSIRO"],
+        "indonesian_partners": ["UGM", "UNAIR", "ITB"],
+        "research_areas": ["astronomy", "climate_physics", "materials_research"],
+        "active_projects": 18,
+        "funding_programs": ["Australia_Awards", "ACIAR"]
+      }
+    ],
+    "domestic_collaborations": [
+      {
+        "network_name": "Indonesian Materials Research Consortium",
+        "members": ["ITB", "UI", "UGM", "UNAIR", "UNDIP", "UNHAS"],
+        "established": 2019,
+        "research_focus": ["advanced_materials", "nanotechnology", "energy_storage"],
+        "shared_facilities": ["electron_microscopy", "X-ray_facilities", "clean_rooms"],
+        "annual_budget": "25_billion_rupiah",
+        "publications_2024": 89
+      },
+      {
+        "network_name": "Indonesian Geophysics Research Network",
+        "members": ["UGM", "ITB", "UI", "UNPAD", "UNHAS"],
+        "established": 2015,
+        "research_focus": ["earthquake_studies", "volcano_monitoring", "climate_research"],
+        "data_sharing": "national_seismic_database",
+        "government_partnership": ["BMKG", "BRIN", "ESDM"],
+        "publications_2024": 67
+      }
+    ]
+  },
+  "funding_landscape": {
+    "government_funding": [
+      {
+        "program": "BRIN Research Grant",
+        "budget_2024": "150_billion_rupiah",
+        "physics_allocation": "35_billion_rupiah",
+        "success_rate": "25%",
+        "average_grant_size": "500_million_rupiah",
+        "duration": "3_years",
+        "application_deadline": "March_31_annually"
+      },
+      {
+        "program": "Ministry of Education Research Grant",
+        "budget_2024": "200_billion_rupiah", 
+        "physics_allocation": "45_billion_rupiah",
+        "success_rate": "30%",
+        "average_grant_size": "300_million_rupiah",
+        "duration": "2_years",
+        "focus_areas": ["basic_research", "applied_research", "education_innovation"]
+      }
+    ],
+    "international_funding": [
+      {
+        "source": "World Bank Science Fund",
+        "available_for_indonesia": "50_million_USD",
+        "physics_projects_funded": 12,
+        "focus_areas": ["climate_research", "disaster_mitigation", "sustainable_energy"],
+        "application_process": "competitive_international"
+      },
+      {
+        "source": "Asian Development Bank",
+        "program": "Science and Technology Initiative",
+        "funding_available": "30_million_USD",
+        "physics_relevance": "high",
+        "priority_areas": ["renewable_energy", "smart_cities", "environmental_monitoring"]
+      }
+    ]
+  },
+  "publication_trends": {
+    "growth_statistics": {
+      "2020": {
+        "total_physics_papers": 1245,
+        "international_collaborations": 312,
+        "high_impact_papers": 89
+      },
+      "2021": {
+        "total_physics_papers": 1367,
+        "international_collaborations": 356,
+        "high_impact_papers": 98
+      },
+      "2022": {
+        "total_physics_papers": 1489,
+        "international_collaborations": 398,
+        "high_impact_papers": 112
+      },
+      "2023": {
+        "total_physics_papers": 1634,
+        "international_collaborations": 445,
+        "high_impact_papers": 127
+      },
+      "2024": {
+        "total_physics_papers": 1789,
+        "international_collaborations": 498,
+        "high_impact_papers": 145
+      }
+    },
+    "emerging_research_areas": [
+      {
+        "area": "quantum_computing",
+        "papers_2024": 45,
+        "growth_rate": "150%_from_2023",
+        "leading_researchers": ["Prof. Quantum ITB", "Dr. Computing UI"],
+        "international_interest": "very_high"
+      },
+      {
+        "area": "artificial_intelligence_in_physics",
+        "papers_2024": 67,
+        "growth_rate": "120%_from_2023",
+        "applications": ["materials_discovery", "climate_modeling", "particle_physics"],
+        "industry_collaboration": "increasing"
+      },
+      {
+        "area": "sustainable_energy_physics",
+        "papers_2024": 156,
+        "growth_rate": "80%_from_2023",
+        "government_priority": "very_high",
+        "commercial_potential": "excellent"
+      }
+    ]
+  },
+  "open_access_initiatives": {
+    "institutional_repositories": [
+      {
+        "institution": "ITB",
+        "repository_name": "ITB Repository",
+        "url": "https://repository.itb.ac.id",
+        "physics_papers": 2345,
+        "open_access_rate": "78%",
+        "download_statistics": "500k_annually"
+      },
+      {
+        "institution": "UI",
+        "repository_name": "UI Scholarly Works",
+        "url": "https://scholarhub.ui.ac.id",
+        "physics_papers": 1987,
+        "open_access_rate": "72%",
+        "international_visibility": "high"
+      }
+    ],
+    "national_initiatives": [
+      {
+        "program": "Indonesian Science Open Access",
+        "coordinator": "BRIN",
+        "participating_institutions": 45,
+        "physics_papers_available": 15678,
+        "annual_growth": "25%",
+        "international_indexing": ["Scopus", "Web_of_Science", "Google_Scholar"]
+      }
+    ]
+  }
+}

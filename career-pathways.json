@@ -1,0 +1,378 @@
+{
+  "academic_careers": {
+    "university_positions": [
+      {
+        "position": "Assistant Professor",
+        "requirements": {
+          "education": "PhD in Physics or related field",
+          "experience": "0-3 years postdoc",
+          "publications": "minimum 10 peer-reviewed papers",
+          "teaching_experience": "preferred but not required"
+        },
+        "salary_range": "8_million - 15_million_rupiah_monthly",
+        "career_progression": "6_years_to_associate_professor",
+        "responsibilities": [
+          "research_leadership",
+          "undergraduate_teaching",
+          "grant_writing",
+          "student_supervision"
+        ],
+        "job_market": {
+          "openings_annually": 25,
+          "competition_level": "high",
+          "growth_outlook": "stable"
+        }
+      },
+      {
+        "position": "Associate Professor",
+        "requirements": {
+          "education": "PhD + significant research record",
+          "experience": "6-10 years academic experience",
+          "publications": "minimum 30 peer-reviewed papers",
+          "h_index": "minimum 15",
+          "grant_funding": "track record of successful grants"
+        },
+        "salary_range": "15_million - 25_million_rupiah_monthly",
+        "career_progression": "8_years_to_full_professor",
+        "additional_responsibilities": [
+          "graduate_student_supervision",
+          "department_service",
+          "international_collaboration"
+        ]
+      },
+      {
+        "position": "Full Professor",
+        "requirements": {
+          "education": "PhD + distinguished research career",
+          "experience": "15+ years academic experience",
+          "publications": "minimum 60 peer-reviewed papers",
+          "h_index": "minimum 25",
+          "leadership": "demonstrated academic leadership"
+        },
+        "salary_range": "25_million - 40_million_rupiah_monthly",
+        "responsibilities": [
+          "research_program_leadership",
+          "institutional_service",
+          "policy_advisory_roles",
+          "international_representation"
+        ]
+      }
+    ],
+    "research_institutions": [
+      {
+        "institution_type": "BRIN Research Centers",
+        "positions_available": [
+          "Research Scientist",
+          "Senior Research Scientist", 
+          "Principal Research Scientist"
+        ],
+        "entry_requirements": {
+          "education": "PhD in relevant field",
+          "experience": "varies by level",
+          "specializations_in_demand": [
+            "materials_science",
+            "nuclear_physics",
+            "climate_physics",
+            "instrumentation"
+          ]
+        },
+        "salary_range": "10_million - 30_million_rupiah_monthly",
+        "benefits": [
+          "research_facilities_access",
+          "international_collaboration_opportunities",
+          "conference_travel_support",
+          "equipment_budget"
+        ],
+        "career_advancement": "merit_based_promotion_system"
+      }
+    ]
+  },
+  "industry_careers": {
+    "energy_sector": [
+      {
+        "job_title": "Renewable Energy Physicist",
+        "companies": ["PT Pertamina", "PT PLN", "Solar_energy_companies"],
+        "responsibilities": [
+          "solar_panel_efficiency_optimization",
+          "energy_storage_system_design",
+          "grid_integration_physics",
+          "performance_modeling"
+        ],
+        "requirements": {
+          "education": "BS/MS in Physics or Engineering Physics",
+          "skills": ["MATLAB", "Python", "simulation_software"],
+          "experience": "2-5 years preferred"
+        },
+        "salary_range": "12_million - 25_million_rupiah_monthly",
+        "job_outlook": "excellent_growth_projected",
+        "career_progression": "senior_engineer → project_manager → technical_director"
+      },
+      {
+        "job_title": "Nuclear Safety Physicist",
+        "companies": ["BATAN", "Nuclear_power_companies", "Medical_facilities"],
+        "responsibilities": [
+          "radiation_safety_monitoring",
+          "dose_calculation_and_assessment",
+          "safety_protocol_development",
+          "regulatory_compliance"
+        ],
+        "requirements": {
+          "education": "MS in Nuclear Physics or Medical Physics",
+          "certification": "radiation_safety_officer_license",
+          "experience": "specialized_training_required"
+        },
+        "salary_range": "15_million - 30_million_rupiah_monthly",
+        "job_security": "very_high",
+        "growth_potential": "steady_with_nuclear_program_expansion"
+      }
+    ],
+    "technology_sector": [
+      {
+        "job_title": "Quantum Computing Researcher",
+        "companies": ["Tech_startups", "Telkom_R&D", "International_tech_companies"],
+        "responsibilities": [
+          "quantum_algorithm_development",
+          "quantum_hardware_optimization",
+          "error_correction_research",
+          "quantum_software_development"
+        ],
+        "requirements": {
+          "education": "PhD in Quantum Physics or related field",
+          "skills": ["quantum_programming", "linear_algebra", "Python", "Qiskit"],
+          "experience": "research_experience_in_quantum_systems"
+        },
+        "salary_range": "20_million - 50_million_rupiah_monthly",
+        "job_outlook": "explosive_growth_expected",
+        "remote_work": "often_available"
+      },
+      {
+        "job_title": "Data Scientist (Physics Background)",
+        "companies": ["Fintech", "E-commerce", "Consulting_firms"],
+        "responsibilities": [
+          "complex_data_analysis",
+          "predictive_modeling",
+          "algorithm_development",
+          "statistical_analysis"
+        ],
+        "requirements": {
+          "education": "BS/MS in Physics with data science skills",
+          "skills": ["Python", "R", "machine_learning", "statistics"],
+          "experience": "portfolio_of_data_projects"
+        },
+        "salary_range": "15_million - 35_million_rupiah_monthly",
+        "job_outlook": "very_strong_demand",
+        "career_flexibility": "high_transferability_across_industries"
+      }
+    ],
+    "consulting": [
+      {
+        "job_title": "Technical Consultant",
+        "companies": ["McKinsey", "BCG", "Deloitte", "Specialized_consulting_firms"],
+        "responsibilities": [
+          "technical_problem_solving",
+          "client_advisory_services",
+          "technology_strategy_development",
+          "due_diligence_for_investments"
+        ],
+        "requirements": {
+          "education": "PhD in Physics preferred",
+          "skills": ["analytical_thinking", "communication", "business_acumen"],
+          "experience": "research_or_industry_background"
+        },
+        "salary_range": "25_million - 60_million_rupiah_monthly",
+        "travel_requirements": "frequent_client_visits",
+        "career_progression": "consultant → senior_consultant → partner"
+      }
+    ]
+  },
+  "government_careers": [
+    {
+      "agency": "BRIN (National Research and Innovation Agency)",
+      "positions": [
+        "Research Scientist",
+        "Science Policy Analyst",
+        "Program Manager",
+        "International Cooperation Officer"
+      ],
+      "entry_paths": [
+        "direct_recruitment",
+        "CPNS_examination",
+        "contract_positions"
+      ],
+      "salary_range": "8_million - 25_million_rupiah_monthly",
+      "benefits": [
+        "job_security",
+        "pension_plan",
+        "health_insurance",
+        "professional_development_opportunities"
+      ]
+    },
+    {
+      "agency": "BMKG (Meteorology and Geophysics Agency)",
+      "positions": [
+        "Geophysicist",
+        "Climate_Analyst",
+        "Seismologist",
+        "Weather_Forecaster"
+      ],
+      "specializations_needed": [
+        "atmospheric_physics",
+        "seismology",
+        "climate_science",
+        "instrumentation"
+      ],
+      "career_impact": "direct_contribution_to_disaster_preparedness"
+    }
+  ],
+  "entrepreneurship": {
+    "physics_based_startups": [
+      {
+        "sector": "Educational Technology",
+        "opportunities": [
+          "physics_simulation_software",
+          "online_tutoring_platforms",
+          "laboratory_equipment_rental",
+          "STEM_education_content"
+        ],
+        "success_stories": [
+          {
+            "company": "PhysicsLab Virtual",
+            "founder": "ITB Physics Alumni",
+            "valuation": "50_billion_rupiah",
+            "market": "Southeast_Asia"
+          }
+        ],
+        "startup_costs": "100_million - 1_billion_rupiah",
+        "funding_sources": ["angel_investors", "government_grants", "university_incubators"]
+      },
+      {
+        "sector": "Clean Energy Solutions",
+        "opportunities": [
+          "solar_panel_optimization_services",
+          "energy_efficiency_consulting",
+          "battery_technology_development",
+          "smart_grid_solutions"
+        ],
+        "market_size": "rapidly_expanding",
+        "government_support": "strong_policy_backing"
+      }
+    ],
+    "support_ecosystem": [
+      {
+        "organization": "University Incubators",
+        "services": ["mentorship", "seed_funding", "office_space", "networking"],
+        "examples": ["ITB_Incubator", "UI_Startup_Center", "UGM_Innovation_Hub"]
+      },
+      {
+        "organization": "Government Programs",
+        "programs": ["1000_Startup_Digital", "Gerakan_Nasional_1000_Startup"],
+        "support_types": ["funding", "training", "market_access"]
+      }
+    ]
+  },
+  "international_opportunities": {
+    "postdoc_positions": [
+      {
+        "destination": "United States",
+        "typical_duration": "2-3 years",
+        "salary_range": "50k - 70k_USD_annually",
+        "visa_type": "J-1 or H-1B",
+        "application_timeline": "6-12_months_in_advance",
+        "top_institutions": ["MIT", "Stanford", "Caltech", "Harvard"]
+      },
+      {
+        "destination": "Europe",
+        "programs": ["Marie_Curie_Fellowships", "CERN_fellowships"],
+        "salary_range": "40k - 60k_EUR_annually",
+        "benefits": ["healthcare", "family_support", "travel_allowance"],
+        "application_deadline": "typically_September"
+      },
+      {
+        "destination": "Japan",
+        "programs": ["JSPS_Fellowship", "RIKEN_positions"],
+        "cultural_considerations": "language_learning_beneficial",
+        "research_strengths": ["materials_science", "nuclear_physics", "astronomy"]
+      }
+    ],
+    "permanent_migration": [
+      {
+        "country": "Australia",
+        "visa_pathway": "skilled_migration",
+        "physics_demand": "moderate",
+        "salary_expectations": "80k - 120k_AUD_annually",
+        "lifestyle_factors": "high_quality_of_life"
+      },
+      {
+        "country": "Canada",
+        "visa_pathway": "express_entry_system",
+        "physics_opportunities": "research_institutions_and_industry",
+        "immigration_points": "PhD_gives_significant_advantage"
+      }
+    ]
+  },
+  "career_transition_support": {
+    "skills_development": [
+      {
+        "skill_category": "Programming",
+        "recommended_languages": ["Python", "R", "MATLAB", "C++"],
+        "learning_resources": ["Coursera", "edX", "local_bootcamps"],
+        "time_investment": "3-6_months_intensive_learning"
+      },
+      {
+        "skill_category": "Business Skills",
+        "areas": ["project_management", "communication", "leadership"],
+        "development_options": ["MBA_programs", "professional_certificates", "workshops"]
+      }
+    ],
+    "networking_opportunities": [
+      {
+        "organization": "Indonesian Physics Society Alumni Network",
+        "activities": ["monthly_meetups", "career_workshops", "mentorship_programs"],
+        "membership": "open_to_physics_graduates"
+      },
+      {
+        "platform": "LinkedIn Physics Professionals Indonesia",
+        "members": 5000,
+        "activities": ["job_postings", "industry_insights", "networking_events"]
+      }
+    ],
+    "career_counseling": [
+      {
+        "service": "University Career Centers",
+        "availability": "free_for_alumni",
+        "services": ["resume_review", "interview_preparation", "career_planning"]
+      },
+      {
+        "service": "Professional Career Coaches",
+        "specialization": "STEM_career_transitions",
+        "cost": "500k - 2_million_rupiah_per_session"
+      }
+    ]
+  },
+  "salary_benchmarks": {
+    "by_experience_level": {
+      "entry_level_0_2_years": {
+        "academic": "8_million - 12_million",
+        "industry": "10_million - 18_million",
+        "government": "6_million - 10_million"
+      },
+      "mid_level_3_7_years": {
+        "academic": "12_million - 20_million",
+        "industry": "18_million - 35_million",
+        "government": "10_million - 18_million"
+      },
+      "senior_level_8_plus_years": {
+        "academic": "20_million - 40_million",
+        "industry": "35_million - 80_million",
+        "government": "18_million - 30_million"
+      }
+    },
+    "by_specialization": {
+      "theoretical_physics": "academic_focused_lower_industry_premium",
+      "applied_physics": "strong_industry_demand_higher_salaries",
+      "medical_physics": "specialized_field_premium_salaries",
+      "geophysics": "oil_gas_industry_premium",
+      "materials_science": "high_industry_demand_competitive_salaries"
+    }
+  }
+}
