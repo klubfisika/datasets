@@ -60,21 +60,21 @@ jobs:
         echo "🔍 Verifying data structure..."
         
         # Check if institutions file has required structure
-        if [ -f "institutions-diy.json" ]; then
-          if jq -e '.yogyakarta_kota' institutions-diy.json > /dev/null; then
-            echo "✅ institutions-diy.json has correct structure"
+        if [ -f "v1/institutions-diy.json" ]; then
+          if jq -e '.yogyakarta_kota' v1/institutions-diy.json > /dev/null; then
+            echo "✅ v1/institutions-diy.json has correct structure"
           else
-            echo "❌ institutions-diy.json missing required structure"
+            echo "❌ v1/institutions-diy.json missing required structure"
             exit 1
           fi
         fi
         
         # Check if competitions file has required structure
-        if [ -f "competitions-indonesia.json" ]; then
-          if jq -e '.robotics' competitions-indonesia.json > /dev/null; then
-            echo "✅ competitions-indonesia.json has correct structure"
+        if [ -f "v1/competitions-indonesia.json" ]; then
+          if jq -e '.robotics' v1/competitions-indonesia.json > /dev/null; then
+            echo "✅ v1/competitions-indonesia.json has correct structure"
           else
-            echo "❌ competitions-indonesia.json missing required structure"
+            echo "❌ v1/competitions-indonesia.json missing required structure"
             exit 1
           fi
         fi

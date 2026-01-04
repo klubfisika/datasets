@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 ## 📍 Location
 Which dataset file and specific entry has the issue?
-- **File**: (e.g., institutions-diy.json)
+- **File**: (e.g., v1/institutions-diy.json)
 - **Section**: (e.g., yogyakarta_kota.sma)
 - **Entry**: (e.g., "SMA Negeri 3 Yogyakarta")
 

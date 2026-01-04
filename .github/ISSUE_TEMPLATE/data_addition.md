@@ -20,7 +20,7 @@ What type of data do you want to add?
 
 ## 📍 Dataset Location
 Which file should this data be added to?
-- **File**: (e.g., institutions-diy.json)
+- **File**: (e.g., v1/institutions-diy.json)
 - **Section**: (e.g., new region or existing category)
 
 ## 📝 New Data
