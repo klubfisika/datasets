@@ -1,5 +1,7 @@
 # 📊 KF13 Open Datasets
 
+![KF13 Physics Datasets](assets/images/kf13-thumbnail-compressed.jpg)
+
 [![Validate JSON](https://github.com/klubfisika/datasets/workflows/Validate%20JSON%20Files/badge.svg)](https://github.com/klubfisika/datasets/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Data License: CC BY 4.0](https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
