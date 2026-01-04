@@ -56,7 +56,7 @@ dan jelaskan dengan bahasa yang mudah dipahami."
 ```
 "Load research mapping framework. Saya ingin menganalisis correlation antara 
 distribusi institusi pendidikan dengan performance kompetisi fisika menggunakan 
-dataset institutions-diy.json dan competitions-indonesia.json. 
+dataset v1/institutions-diy.json dan v1/competitions-indonesia.json. 
 Apply systematic methodology mapping dan berikan statistical analysis."
 ```
 
@@ -72,21 +72,21 @@ Prioritaskan evidence-based insights."
 
 ### Educational Institutions Analysis
 ```
-"Analisis dataset institutions-diy.json menggunakan problem space mapping. 
+"Analisis dataset v1/institutions-diy.json menggunakan problem space mapping. 
 Fokus pada geographic distribution dan accessibility gaps. 
 Background saya: [researcher/policy maker/educator]"
 ```
 
 ### Competition Performance Study
 ```
-"Load multi-AI orchestration framework untuk menganalisis competitions-indonesia.json. 
+"Load multi-AI orchestration framework untuk menganalisis v1/competitions-indonesia.json. 
 Saya ingin memahami success factors dalam kompetisi fisika/robotika/roket. 
 Koordinasikan dengan Claude untuk ethical analysis dan Mistral untuk statistical modeling."
 ```
 
 ### Physics Programs Evaluation
 ```
-"Gunakan data ecosystem mapping untuk menganalisis physics-programs.json. 
+"Gunakan data ecosystem mapping untuk menganalisis v1/physics-programs.json. 
 Saya tertarik pada program quality indicators dan career pathway optimization. 
 Level analisis: [undergraduate/graduate/professional]"
 ```
@@ -96,7 +96,7 @@ Level analisis: [undergraduate/graduate/professional]"
 ### High School Students
 ```
 "Saya siswa SMA yang ingin ikut kompetisi fisika. 
-Tolong jelaskan dataset competitions-indonesia.json dengan bahasa sederhana 
+Tolong jelaskan dataset v1/competitions-indonesia.json dengan bahasa sederhana 
 dan berikan tips persiapan kompetisi. Fokus pada [KSN/KSM/Robotika/Roket]."
 ```
 

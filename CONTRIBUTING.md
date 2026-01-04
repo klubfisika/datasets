@@ -114,7 +114,7 @@ done
 ```bash
 # Test API endpoints locally
 python -m http.server 8000
-curl http://localhost:8000/institutions-diy.json | jq .
+curl http://localhost:8000/v1/institutions-diy.json | jq .
 ```
 
 ## 📝 Commit Message Format
