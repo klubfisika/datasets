@@ -31,16 +31,19 @@ show_sessions() {
 
 show_datasets() {
     local count=0
-    for f in *.json; do
+    for f in v1/*.json; do
         [ -f "$f" ] || continue
         local s e n
         s=$(du -h "$f" 2>/dev/null | cut -f1)
         e=$(jq '. | length' "$f" 2>/dev/null || echo "?")
-        n=${f%.json}; n=${n//-/ }
+        n=$(basename "$f" .json)
+        n=${n//-/ }
         echo "📊 $n ($s, $e entries)"
-        ((count++))
+        count=$((count + 1))
     done
-    [ $count -eq 0 ] && echo "No datasets found"
+    if [ $count -eq 0 ]; then
+        echo "No datasets found"
+    fi
 }
 
 handle_save() {
@@ -115,8 +118,7 @@ case "${1:-help}" in
         show_datasets
         ;;
     "status"|"st")
-        local dataset_count session_count
-        dataset_count=$(ls *.json 2>/dev/null | wc -l)
+        dataset_count=$(ls v1/*.json 2>/dev/null | wc -l)
         session_count=$(find "$CHAT_DIR" -name "*.chat" 2>/dev/null | wc -l)
         echo "📊 KF13: $dataset_count datasets, $session_count sessions"
         git log --oneline -3 2>/dev/null | head -3 || echo "No git history"
