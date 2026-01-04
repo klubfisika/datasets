@@ -31,11 +31,11 @@ This dataset democratizes access to physics-related information in Indonesia, en
 ### 🚀 **Get Started**
 ```bash
 # Quick API test
-curl https://klubfisika.github.io/datasets/institutions-diy.json
+curl https://klubfisika.github.io/datasets/v1/institutions-diy.json
 
 # Python usage
 import requests
-data = requests.get('https://klubfisika.github.io/datasets/competitions-indonesia.json').json()
+data = requests.get('https://klubfisika.github.io/datasets/v1/competitions-indonesia.json').json()
 ```
 
 ### 🤝 **Join the Community**

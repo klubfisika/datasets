@@ -9,20 +9,20 @@ echo "================================================"
 # Check API endpoints
 echo "📊 Testing API Endpoints..."
 endpoints=(
-    "institutions-diy.json"
-    "competitions-indonesia.json"
-    "physics-programs.json"
-    "equipment-suppliers.json"
-    "astronomy-locations.json"
-    "research-labs.json"
-    "physics-teachers.json"
-    "science-events.json"
-    "publications-database.json"
-    "grant-opportunities.json"
-    "career-pathways.json"
-    "collaboration-networks.json"
-    "innovation-mapping.json"
-    "performance-analytics.json"
+    "v1/institutions-diy.json"
+    "v1/competitions-indonesia.json"
+    "v1/physics-programs.json"
+    "v1/equipment-suppliers.json"
+    "v1/astronomy-locations.json"
+    "v1/research-labs.json"
+    "v1/physics-teachers.json"
+    "v1/science-events.json"
+    "v1/publications-database.json"
+    "v1/grant-opportunities.json"
+    "v1/career-pathways.json"
+    "v1/collaboration-networks.json"
+    "v1/innovation-mapping.json"
+    "v1/performance-analytics.json"
 )
 
 base_url="https://klubfisika.github.io/datasets"
@@ -67,7 +67,7 @@ echo "- Invalid JSON files: $json_errors"
 echo ""
 echo "⚡ Performance Check..."
 start_time=$(date +%s%N)
-curl -s "$base_url/institutions-diy.json" > /dev/null
+curl -s "$base_url/v1/institutions-diy.json" > /dev/null
 end_time=$(date +%s%N)
 response_time=$(( (end_time - start_time) / 1000000 ))
 

@@ -38,9 +38,9 @@ Any additional information or context.
 Clear statement of the research question or hypothesis.
 
 ### Datasets Needed
-- [ ] institutions-diy.json
-- [ ] competitions-indonesia.json
-- [ ] physics-programs.json
+- [ ] v1/institutions-diy.json
+- [ ] v1/competitions-indonesia.json
+- [ ] v1/physics-programs.json
 - [ ] Other: ___________
 
 ### AI Framework Requirements

@@ -34,32 +34,32 @@
 ### 🏫 **Education & Learning**
 | Dataset | Entries | Description | API Endpoint |
 |---------|---------|-------------|--------------|
-| [Educational Institutions](institutions-diy.json) | 536 | Schools & universities in DIY | `/institutions-diy.json` |
-| [Physics Programs](physics-programs.json) | 15+ | University physics departments | `/physics-programs.json` |
-| [Physics Teachers](physics-teachers.json) | 50+ | Educators & mentorship programs | `/physics-teachers.json` |
+| [Educational Institutions](v1/institutions-diy.json) | 536 | Schools & universities in DIY | `/institutions-diy.json` |
+| [Physics Programs](v1/physics-programs.json) | 15+ | University physics departments | `/physics-programs.json` |
+| [Physics Teachers](v1/physics-teachers.json) | 50+ | Educators & mentorship programs | `/physics-teachers.json` |
 
 ### 🏆 **Competitions & Events**
 | Dataset | Entries | Description | API Endpoint |
 |---------|---------|-------------|--------------|
-| [Competitions](competitions-indonesia.json) | 50+ | Robot, rocket, physics competitions | `/competitions-indonesia.json` |
-| [Science Events](science-events.json) | 100+ | Conferences, workshops, training | `/science-events.json` |
+| [Competitions](v1/competitions-indonesia.json) | 50+ | Robot, rocket, physics competitions | `/competitions-indonesia.json` |
+| [Science Events](v1/science-events.json) | 100+ | Conferences, workshops, training | `/science-events.json` |
 
 ### 🔬 **Research & Innovation**
 | Dataset | Entries | Description | API Endpoint |
 |---------|---------|-------------|--------------|
-| [Research Labs](research-labs.json) | 30+ | University research facilities | `/research-labs.json` |
-| [Publications Database](publications-database.json) | 1000+ | Research papers & metrics | `/publications-database.json` |
-| [Grant Opportunities](grant-opportunities.json) | 50+ | Funding & research grants | `/grant-opportunities.json` |
-| [Collaboration Networks](collaboration-networks.json) | 25+ | Partnerships & research networks | `/collaboration-networks.json` |
-| [Innovation Mapping](innovation-mapping.json) | 75+ | Patents, startups, commercialization | `/innovation-mapping.json` |
+| [Research Labs](v1/research-labs.json) | 30+ | University research facilities | `/research-labs.json` |
+| [Publications Database](v1/publications-database.json) | 1000+ | Research papers & metrics | `/publications-database.json` |
+| [Grant Opportunities](v1/grant-opportunities.json) | 50+ | Funding & research grants | `/grant-opportunities.json` |
+| [Collaboration Networks](v1/collaboration-networks.json) | 25+ | Partnerships & research networks | `/collaboration-networks.json` |
+| [Innovation Mapping](v1/innovation-mapping.json) | 75+ | Patents, startups, commercialization | `/innovation-mapping.json` |
 
 ### 🌟 **Community & Career**
 | Dataset | Entries | Description | API Endpoint |
 |---------|---------|-------------|--------------|
-| [Astronomy Locations](astronomy-locations.json) | 25+ | Observatories & dark sky sites | `/astronomy-locations.json` |
-| [Equipment & Suppliers](equipment-suppliers.json) | 100+ | Components for projects | `/equipment-suppliers.json` |
-| [Career Pathways](career-pathways.json) | 100+ | Career guidance & opportunities | `/career-pathways.json` |
-| [Performance Analytics](performance-analytics.json) | 500+ | Metrics, trends, benchmarking | `/performance-analytics.json` |
+| [Astronomy Locations](v1/astronomy-locations.json) | 25+ | Observatories & dark sky sites | `/astronomy-locations.json` |
+| [Equipment & Suppliers](v1/equipment-suppliers.json) | 100+ | Components for projects | `/equipment-suppliers.json` |
+| [Career Pathways](v1/career-pathways.json) | 100+ | Career guidance & opportunities | `/career-pathways.json` |
+| [Performance Analytics](v1/performance-analytics.json) | 500+ | Metrics, trends, benchmarking | `/performance-analytics.json` |
 
 ## 🎯 **Usage Examples**
 
@@ -68,7 +68,7 @@
 import requests
 
 # Get all competitions
-competitions = requests.get('https://klubfisika.github.io/datasets/competitions-indonesia.json').json()
+competitions = requests.get('https://klubfisika.github.io/datasets/v1/competitions-indonesia.json').json()
 
 # Get robotics competitions
 robotics = competitions['robotics']['national']
@@ -78,7 +78,7 @@ print(f"Found {len(robotics)} national robotics competitions")
 ### 🌐 **JavaScript**
 ```javascript
 // Fetch institutions data
-fetch('https://klubfisika.github.io/datasets/institutions-diy.json')
+fetch('https://klubfisika.github.io/datasets/v1/institutions-diy.json')
   .then(response => response.json())
   .then(data => {
     const smaYogya = data.yogyakarta_kota.sma;
@@ -91,7 +91,7 @@ fetch('https://klubfisika.github.io/datasets/institutions-diy.json')
 library(jsonlite)
 
 # Load physics programs data
-programs <- fromJSON('https://klubfisika.github.io/datasets/physics-programs.json')
+programs <- fromJSON('https://klubfisika.github.io/datasets/v1/physics-programs.json')
 
 # Analyze by region
 public_unis <- programs$public_universities
@@ -101,11 +101,11 @@ print(paste("Regions covered:", length(names(public_unis))))
 ### 🐚 **Bash/curl**
 ```bash
 # Quick API test
-curl -s https://klubfisika.github.io/datasets/astronomy-locations.json | jq '.observatories.professional | length'
+curl -s https://klubfisika.github.io/datasets/v1/astronomy-locations.json | jq '.observatories.professional | length'
 
 # Download all datasets
 for dataset in institutions-diy competitions-indonesia physics-programs; do
-  curl -O https://klubfisika.github.io/datasets/${dataset}.json
+  curl -O https://klubfisika.github.io/datasets/v1/${dataset}.json
 done
 ```
 
